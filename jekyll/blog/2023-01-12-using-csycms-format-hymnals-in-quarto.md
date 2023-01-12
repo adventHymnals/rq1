@@ -47,6 +47,10 @@ yq e   '. | keys' hymnals.yaml | while read -r line ; do
      #echo "==>::$hymnal$link"
 done
 
+sed -i 's/^Navigation:/toc:/' ./
+
+Replace a few things
+
 ## 2. Downloading individual hymnals
 
 
