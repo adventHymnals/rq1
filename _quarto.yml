@@ -33,10 +33,10 @@ website:
     contents:
       - href: index.qmd
         text: Home
-      # - href: jekyll/blog/abc.qmd
-      #   text: ABC
-      # - href: jekyll/blog/hosting-advent-hymnals-in-csycms-server.qmd
-      #   text: Blogo
+      - href: jekyll/blog/abc.qmd
+        text: ABC
+      - href: jekyll/blog/hosting-advent-hymnals-in-csycms-server.qmd
+        text: Blogo
       - href: content/add-content.qmd
         text: Add content
       - href: content/customizing.qmd
