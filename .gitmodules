@@ -1,0 +1,3 @@
+[submodule "jekyll/blog"]
+	path = jekyll/blog
+	url = https://github.com/adventHymnals/blog_pages.git
