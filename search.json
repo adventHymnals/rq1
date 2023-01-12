@@ -14,6 +14,69 @@
     "text": "GitHub Set-up\n\nClick the green “use template” button to make a repository with this content. Make sure to make your repo public (since GitHub Pages doesn’t work on private repos unless you have a paid account) and check box to include all the branches (so that you get the gh-pages branch). \nTurn on GitHub Pages under Settings > Pages . You will set pages to be made from the gh-pages branch and root directory. \nTurn on GitHub Actions under Settings > Actions > General \nEdit the repo description and Readme to add a link to the webpage. When you edit the description, you will see the link url in the url box or you can click on the Actions tab or the Settings > Pages page to find the url."
   },
   {
+    "objectID": "jekyll/blog/2023-01-12-using-csycms-format-hymnals-in-quarto.html",
+    "href": "jekyll/blog/2023-01-12-using-csycms-format-hymnals-in-quarto.html",
+    "title": "Using Csycms Format hymnals in Quarto",
+    "section": "",
+    "text": "Csycms is a flat file content management system for nodejs which we developed about 4 to 5 years back in 2018. It has served us well hosting both the sites for Advent Hymnals as well as the Sabbath School Lessons Archive before we moved it to github pages. And now we have to retire it. While we could keep improving it to keep up with our current needs, that will be time and resources not wisely spent. We have now fully adopted github pages as our host for advent hymnals, and mainly because it is free. While there are several options available for us to use gh-pages, it seems to us at the moment, especially between quarto and jekyll that quarto is the better for us of the two. Here we explain how to use the the hymnals in the csycms format they are currently in in quarto. The reason for maintaining that format is so that there is just a single set of documents to easy any editing work that might be done which can be used across a wide range of tools. And the choice of using csycms means that we will also later need to explain how to create the csycms document structure for any new hymnals whichmay need to be added."
+  },
+  {
+    "objectID": "jekyll/blog/2023-01-12-using-csycms-format-hymnals-in-quarto.html#downloading-the-hymnals-repository",
+    "href": "jekyll/blog/2023-01-12-using-csycms-format-hymnals-in-quarto.html#downloading-the-hymnals-repository",
+    "title": "Using Csycms Format hymnals in Quarto",
+    "section": "1. Downloading the hymnals repository",
+    "text": "1. Downloading the hymnals repository\nThe first step is to download the hymnals list available in a yaml format. The hymnals list contains also links to blogs. The blogs are available in jekyll format instead of csycms.\nwget -O hymnals.yaml https://raw.githubusercontent.com/adventHymnals/hymnals/master/hymnals.yaml\n\nInstalling yq\nsudo wget https://github.com/mikefarah/yq/releases/download/v4.4.1/yq_linux_amd64 -O /usr/bin/yq &&\\\nsudo chmod +x /usr/bin/yq\nyq e ‘. | keys’ hymnals.yaml | while read -r line ; do\nhymnal=$(echo \\(line |cut -b 3-) # - blog -> blog  #echo \"==>::\\)hymnal” # check if gtLink is available gtLink=\\((yq e \".\\)hymnal.gtLink” hymnals.yaml) if [ “\\(gtLink\" != \"null\" ]; then  gtLink=\"https://github.com/\\)gtLink.git”\nlink=$(yq e \".$hymnal.link\"  hymnals.yaml)\n# clone if hymnal is available\necho \"==>::$hymnal::$link::$gtLink\"\nrm -rf \"$link\" && git clone $gtLink $link\nfi\n #echo \"==>::$hymnal$link\"\ndone"
+  },
+  {
+    "objectID": "jekyll/blog/2023-01-12-using-csycms-format-hymnals-in-quarto.html#downloading-individual-hymnals",
+    "href": "jekyll/blog/2023-01-12-using-csycms-format-hymnals-in-quarto.html#downloading-individual-hymnals",
+    "title": "Using Csycms Format hymnals in Quarto",
+    "section": "2. Downloading individual hymnals",
+    "text": "2. Downloading individual hymnals\nBut as we work on the migration, there may be need to migrate our csycms system from one server to another. So here are the instructions incase this need should arise."
+  },
+  {
+    "objectID": "jekyll/blog/2023-01-12-using-csycms-format-hymnals-in-quarto.html#requirements",
+    "href": "jekyll/blog/2023-01-12-using-csycms-format-hymnals-in-quarto.html#requirements",
+    "title": "Using Csycms Format hymnals in Quarto",
+    "section": "Requirements",
+    "text": "Requirements\n\nAn ubuntu server\nNode.js >=14.0.0 <18.0.0\nNginx. You can use Apache or any other webserver of your choice. But we only have configurations for nginx.\ncertbot\n\nOne you have set up these requirements, you are good to go. If you are not sure how to go about it you can check out the instructions elsewhere in the internet."
+  },
+  {
+    "objectID": "jekyll/blog/2023-01-12-using-csycms-format-hymnals-in-quarto.html#installation",
+    "href": "jekyll/blog/2023-01-12-using-csycms-format-hymnals-in-quarto.html#installation",
+    "title": "Using Csycms Format hymnals in Quarto",
+    "section": "Installation",
+    "text": "Installation\nFirst install csycms:\nnpm install -g csycms\nThen initialize it and create service files:\nsudo csycms init\nThen install advent hymnals site:\ncsycms site --create -n adventhymnals -p 8710 -r https://github.com/GospelSounders/adventhymnals.git -d adventhymnals.org\nThen make changes to configurations in /etc/csycms/sites-enabled/adventhymnals.yml. A working configuration is found here\nsudo /etc/csycms/sites-enabled/adventhymnals.yml\nBe sure to change: - domain. Assets will not be loaded if this is wrong - scheme. If this is wrong, assets will not be loaded properly. - site.space - site.title - copyright.title - copyright.url - copyright.name\nNow its time to setup nginx to act as a proxy to our csycms server. Sample configuration is found here. You can have it either an independent file in the nginx config directory or set it up as a block in the main config. Since it redirects all traffic to ssl, you will need to get some ssl certificates. You will use certbot for this.\nsudo certbot certonly --nginx -d adventhymnals.org\nNow restart both csycms and nginx:\nsudo systemctl restart nginx\nsudo systemctl restart csycms"
+  },
+  {
+    "objectID": "jekyll/blog/abc.html",
+    "href": "jekyll/blog/abc.html",
+    "title": "Acknowledgments",
+    "section": "",
+    "text": "This repo and GitHub Action was based on the tutorial by Openscapes quarto-website-tutorial by Julia Lowndes and Stefanie Butland."
+  },
+  {
+    "objectID": "jekyll/blog/hosting-advent-hymnals-in-csycms-server.html",
+    "href": "jekyll/blog/hosting-advent-hymnals-in-csycms-server.html",
+    "title": "Setting up a Csycms Server for Hosting Advent Hymnals",
+    "section": "",
+    "text": "Csycms is a flat file content management system for nodejs which we developed about 4 to 5 years back in 2018. It has served us well hosting both the sites for Advent Hymnals as well as the Sabbath School Lessons Archive before we moved it to github pages. And now we have to retire it. While we could keep improving it to keep up with our current needs, that will be time and resources not wisely spent. We have now fully adopted github pages as our host for advent hymnals, and mainly because it is free. But as we work on the migration, there may be need to migrate our csycms system from one server to another. So here are the instructions incase this need should arise."
+  },
+  {
+    "objectID": "jekyll/blog/hosting-advent-hymnals-in-csycms-server.html#requirements",
+    "href": "jekyll/blog/hosting-advent-hymnals-in-csycms-server.html#requirements",
+    "title": "Setting up a Csycms Server for Hosting Advent Hymnals",
+    "section": "Requirements",
+    "text": "Requirements\n\nAn ubuntu server\nNode.js >=14.0.0 <18.0.0\nNginx. You can use Apache or any other webserver of your choice. But we only have configurations for nginx.\ncertbot\n\nOne you have set up these requirements, you are good to go. If you are not sure how to go about it you can check out the instructions elsewhere in the internet."
+  },
+  {
+    "objectID": "jekyll/blog/hosting-advent-hymnals-in-csycms-server.html#installation",
+    "href": "jekyll/blog/hosting-advent-hymnals-in-csycms-server.html#installation",
+    "title": "Setting up a Csycms Server for Hosting Advent Hymnals",
+    "section": "Installation",
+    "text": "Installation\nFirst install csycms:\nnpm install -g csycms\nThen initialize it and create service files:\nsudo csycms init\nThen install advent hymnals site:\ncsycms site --create -n adventhymnals -p 8710 -r https://github.com/GospelSounders/adventhymnals.git -d adventhymnals.org\nThen make changes to configurations in /etc/csycms/sites-enabled/adventhymnals.yml. A working configuration is found here\nsudo /etc/csycms/sites-enabled/adventhymnals.yml\nBe sure to change: - domain. Assets will not be loaded if this is wrong - scheme. If this is wrong, assets will not be loaded properly. - site.space - site.title - copyright.title - copyright.url - copyright.name\nNow its time to setup nginx to act as a proxy to our csycms server. Sample configuration is found here. You can have it either an independent file in the nginx config directory or set it up as a block in the main config. Since it redirects all traffic to ssl, you will need to get some ssl certificates. You will use certbot for this.\nsudo certbot certonly --nginx -d adventhymnals.org\nNow restart both csycms and nginx:\nsudo systemctl restart nginx\nsudo systemctl restart csycms"
+  },
+  {
     "objectID": "content/rendering.html",
     "href": "content/rendering.html",
     "title": "Rendering",
