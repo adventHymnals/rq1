@@ -2,26 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://nmfs-opensci.github.io/NOAA-quarto-simple/index.html</loc>
-    <lastmod>2023-01-12T14:15:56.935Z</lastmod>
+    <lastmod>2023-01-12T14:21:48.435Z</lastmod>
   </url>
   <url>
     <loc>https://nmfs-opensci.github.io/NOAA-quarto-simple/content/rendering.html</loc>
-    <lastmod>2023-01-12T14:15:59.271Z</lastmod>
+    <lastmod>2023-01-12T14:21:50.771Z</lastmod>
   </url>
   <url>
     <loc>https://nmfs-opensci.github.io/NOAA-quarto-simple/content/acknowledgements.html</loc>
-    <lastmod>2023-01-12T14:15:59.663Z</lastmod>
+    <lastmod>2023-01-12T14:21:51.207Z</lastmod>
   </url>
   <url>
     <loc>https://nmfs-opensci.github.io/NOAA-quarto-simple/content/add-content.html</loc>
-    <lastmod>2023-01-12T14:16:00.079Z</lastmod>
+    <lastmod>2023-01-12T14:21:51.643Z</lastmod>
   </url>
   <url>
     <loc>https://nmfs-opensci.github.io/NOAA-quarto-simple/content/publishing.html</loc>
-    <lastmod>2023-01-12T14:16:00.551Z</lastmod>
+    <lastmod>2023-01-12T14:21:52.083Z</lastmod>
   </url>
   <url>
     <loc>https://nmfs-opensci.github.io/NOAA-quarto-simple/content/customizing.html</loc>
-    <lastmod>2023-01-12T14:16:00.963Z</lastmod>
+    <lastmod>2023-01-12T14:21:52.511Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nmfs-opensci.github.io/NOAA-quarto-simple/content/hosting-advent-hymnals-in-csycms-server.html</loc>
+    <lastmod>2023-01-12T14:21:53.031Z</lastmod>
   </url>
 </urlset>

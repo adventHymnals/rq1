@@ -103,5 +103,26 @@
     "title": "Customization",
     "section": "Examples",
     "text": "Examples\nLooking at other people’s Quarto code is a great way to figure out how to do stuff. Most will have a link to a GitHub repo where you can see the raw code. Look for a link to edit page or see source code. This will usually be on the right. Or look for the GitHub icon somewhere.\n\nQuarto gallery\nnmfs-openscapes\nFaye lab manual\nquarto-titlepages Note the link to edit is broken. Go to repo and look in documentation directory."
+  },
+  {
+    "objectID": "content/hosting-advent-hymnals-in-csycms-server.html",
+    "href": "content/hosting-advent-hymnals-in-csycms-server.html",
+    "title": "Setting up a Csycms Server for Hosting Advent Hymnals",
+    "section": "",
+    "text": "Csycms is a flat file content management system for nodejs which we developed about 4 to 5 years back in 2018. It has served us well hosting both the sites for Advent Hymnals as well as the Sabbath School Lessons Archive before we moved it to github pages. And now we have to retire it. While we could keep improving it to keep up with our current needs, that will be time and resources not wisely spent. We have now fully adopted github pages as our host for advent hymnals, and mainly because it is free. But as we work on the migration, there may be need to migrate our csycms system from one server to another. So here are the instructions incase this need should arise."
+  },
+  {
+    "objectID": "content/hosting-advent-hymnals-in-csycms-server.html#requirements",
+    "href": "content/hosting-advent-hymnals-in-csycms-server.html#requirements",
+    "title": "Setting up a Csycms Server for Hosting Advent Hymnals",
+    "section": "Requirements",
+    "text": "Requirements\n\nAn ubuntu server\nNode.js >=14.0.0 <18.0.0\nNginx. You can use Apache or any other webserver of your choice. But we only have configurations for nginx.\ncertbot\n\nOne you have set up these requirements, you are good to go. If you are not sure how to go about it you can check out the instructions elsewhere in the internet."
+  },
+  {
+    "objectID": "content/hosting-advent-hymnals-in-csycms-server.html#installation",
+    "href": "content/hosting-advent-hymnals-in-csycms-server.html#installation",
+    "title": "Setting up a Csycms Server for Hosting Advent Hymnals",
+    "section": "Installation",
+    "text": "Installation\nFirst install csycms:\nnpm install -g csycms\nThen initialize it and create service files:\nsudo csycms init\nThen install advent hymnals site:\ncsycms site --create -n adventhymnals -p 8710 -r https://github.com/GospelSounders/adventhymnals.git -d adventhymnals.org\nThen make changes to configurations in /etc/csycms/sites-enabled/adventhymnals.yml. A working configuration is found here\nsudo /etc/csycms/sites-enabled/adventhymnals.yml\nBe sure to change: - domain. Assets will not be loaded if this is wrong - scheme. If this is wrong, assets will not be loaded properly. - site.space - site.title - copyright.title - copyright.url - copyright.name\nNow its time to setup nginx to act as a proxy to our csycms server. Sample configuration is found here. You can have it either an independent file in the nginx config directory or set it up as a block in the main config. Since it redirects all traffic to ssl, you will need to get some ssl certificates. You will use certbot for this.\nsudo certbot certonly --nginx -d adventhymnals.org\nNow restart both csycms and nginx:\nsudo systemctl restart nginx\nsudo systemctl restart csycms"
   }
 ]
