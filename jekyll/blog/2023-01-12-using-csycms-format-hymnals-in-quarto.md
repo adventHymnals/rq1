@@ -50,8 +50,8 @@ done
 ## 4. Replace some values
 The `Navigation` field in the jekyll files cannot be processed by quarto. So we need to change these to `toc`. Find recursive and replace
 ```bash
-find . -name "*.md" | xargs sed -i "s/^Navigation:/toc:/g"
-find . -name "*.qmd" | xargs sed -i "s/^Navigation:/toc:/g"
+find . -name "*.md" | xargs sed -i "s/^Navigation:/toc:/gi"
+find . -name "*.qmd" | xargs sed -i "s/^Navigation:/toc:/gi"
 ```
 
 
@@ -94,7 +94,7 @@ Then we rename `chaper.md` to `index.md`
 
 ```bash
 find . -wholename "*/chapter.md"  | while read -r line ; do 
-    newPath=$( echo $line | sed -e 's|/chapter\.md|/index.md' ) 
+    newPath=$( echo $line | sed -e 's|/chapter\.md|/index.md|' ) 
     mv "$line" "$newPath"
 done
 ```
@@ -114,27 +114,11 @@ find . -type d -empty -delete
 
 The complete script is available [here](https://raw.githubusercontent.com/adventHymnals/resources/master/scripts/csycmstoquarto.sh).
 
-```bash
-find . -wholename "*/[0-9][0-9].*" -type d | sort -r | while read -r line ; do 
-    reversed=$( echo $line|rev) # use reverse so we can replace the last occurence as the first
-    newPath=$( echo $reversed | sed -e 's|\.[0-9][0-9]/|/|g' |rev ) 
-    
-    #last dir
-    lastDir=$(echo $newPath|rev |sed -e 's|^[^/]*/||g' |rev ) 
-    echo "mv $line $newPath\n$lastDir" >> lines.txt
-    mkdir -p "$lastDir"
-    if [ -d "$newPath" ]; then
-        echo "cp -r $line/* $newPath/" >> lines.txt
-        cp -r "$line/* $newPath/" #&& rm -rf "$line"
-    else
-        mv "$line" "$newPath"
-    fi
-done
+Add it to the github workflow:
+```yaml
+- name: Download and process csycms hymnals
+        run: |
+          wget -O csycmstoquarto.sh https://raw.githubusercontent.com/adventHymnals/resources/master/scripts/csycmstoquarto.sh
+          chmod +x csycmstoquarto.sh
+          ./csycmstoquarto.sh
 ```
-
-rm -rf millenial-harp && git clone https://github.com/adventhymnals/millenial-harp-csycms.git && mv millenial-harp-csycms millenial-harp
-
- reversed=$( echo $line|rev) # use reverse so we can replace the last occurence as the first
-    newPath=$( echo $reversed | sed -e 's|\.[0-9][0-9]/|/|g' |rev ) 
-    echo "$line:$newPath"
-    mv $line $newPath
