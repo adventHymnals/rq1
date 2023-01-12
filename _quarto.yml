@@ -33,7 +33,7 @@ website:
     contents:
       - href: index.qmd
         text: Home
-      - href: jekyll/blog/1908-01-01-hosting-advent-hymnals-in-csycms-server.md
+      - href: jekyll/blog/1908-01-01-hosting-advent-hymnals-in-csycms-server.qmd
         text: Blogo
       - href: content/add-content.qmd
         text: Add content
