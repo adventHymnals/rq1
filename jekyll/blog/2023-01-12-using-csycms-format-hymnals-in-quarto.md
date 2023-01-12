@@ -112,6 +112,8 @@ Then we remove all empty directories
 find . -type d -empty -delete
 ```
 
+The complete script is available [here](https://raw.githubusercontent.com/adventHymnals/resources/master/scripts/csycmstoquarto.sh).
+
 ```bash
 find . -wholename "*/[0-9][0-9].*" -type d | sort -r | while read -r line ; do 
     reversed=$( echo $line|rev) # use reverse so we can replace the last occurence as the first

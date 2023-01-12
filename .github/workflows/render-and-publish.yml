@@ -16,7 +16,11 @@ jobs:
 
       #- name: Install packages (needed for Rmd)
       #  run: Rscript -e 'install.packages(c("rmarkdown", "knitr", "jsonlite"))'
-
+      - name: Download and process csycms hymnals
+        run: |
+          wget -O csycmstoquarto.sh https://raw.githubusercontent.com/adventHymnals/resources/master/scripts/csycmstoquarto.sh
+          chmod +x csycmstoquarto.sh
+          ./csycmstoquarto.sh
       - name: Set up Quarto
         uses: quarto-dev/quarto-actions/setup@v2
         with:
