@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-Navigation: False
+toc: False
 title: Setting up a Csycms Server for Hosting Advent Hymnals
 date: January 12, 2023
 tags: [technical, server]

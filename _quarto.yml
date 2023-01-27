@@ -2,30 +2,29 @@ project:
   type: website
 
 website: 
-  page-navigation: true
-  title: "NOAA quarto simple" 
-  site-url: "https://nmfs-opensci.github.io/NOAA-quarto-simple" 
-  repo-url: "https://github.com/nmfs-opensci/NOAA-quarto-simple"
+  page-navigation: false
+  title: "Advent Hymnals" 
+  site-url: "https://adventhymnals.org" 
+  repo-url: "https://github.com/adventhymnals/v3"
   repo-actions: [edit, source, issue]
   favicon: images/favicon.ico
   
   page-footer:
-    right: "This page is built with [Quarto](https://quarto.org/)."
-    left: "&copy; CC-1.0"
+    right: ""
+    center: "&copy; 2018-2023 Gospel Sounders"
   
   sidebar:
-    background: "#D9E3E4"
-    logo: "https://raw.githubusercontent.com/nmfs-opensci/assets/main/logo/nmfs-opensci-logo3.png"
+    background: "#A87A4E"
     favicon: images/favicon.ico
-    pinned: true
+    pinned: false
     align: center
     tools: 
       - icon: globe
-        href: https://nmfs-opensci.github.io
-        text: "NMFS Open Science"
+        href: https://gospelsounders.org
+        text: "Gospel Sounders"
       - icon: github
-        href: https://github.com/nmfs-opensci
-        text: "NMFS OpenSci"
+        href: https://github.com/adventhymnals
+        text: "Advent Hymnals"
 
     style: "docked"
     search: true
@@ -33,19 +32,30 @@ website:
     contents:
       - href: index.qmd
         text: Home
-      - href: jekyll/blog/abc.qmd
-        text: ABC
-      - href: jekyll/blog/hosting-advent-hymnals-in-csycms-server.qmd
-        text: Blogo
-      - href: content/add-content.qmd
-        text: Add content
-      - href: content/customizing.qmd
-        text: Customizing
-      - href: content/rendering.qmd
-        text: Rendering
-      - href: content/acknowledgements.qmd
-        text: Acknowledgements
-
+      - href: campus-melodies
+        text: Campus Melodies
+      - href: seventh-day-adventist-hymnal
+        text: Seventh-day Adventist Hymnal
+      - href: nyimbo-za-kristo
+        text: Nyimbo za Kristo
+      - href: church-hymnal
+        text: Church Hymnal
+      - href: wende-nyasaye
+        text: Wende Nyasaye
+      - href: christ-in-song
+        text: Christ in Song
+      - href: hymns-and-tunes-1876
+        text: Hymns and Tunes 1876
+      - href: hymns-and-tunes-1869
+        text: Hymns and Tunes 1869
+      - href: Hymns-for-Gods-Peculiar-People
+        text: Hymns for God’s Peculiar People
+      - href: millenial-harp
+        text: Millenial Harp
+      - href: hymns-for-the-poor-of-the-flock
+        text: Hymns for the Poor of the Flock
+      - href: blog
+        text: Blog
 format:
   html:
     theme:
@@ -53,7 +63,7 @@ format:
       dark: [cosmo, theme-dark.scss]
     code-copy: true
     code-overflow: wrap
-    toc: true
+    toc: false
 
 
 filters:

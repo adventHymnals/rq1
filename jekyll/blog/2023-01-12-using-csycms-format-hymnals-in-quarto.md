@@ -47,29 +47,67 @@ yq e   '. | keys' hymnals.yaml | while read -r line ; do     # get all keys(hymn
 done
 ```
 
-## 4. Replace some values
-The `Navigation` field in the jekyll files cannot be processed by quarto. So we need to change these to `toc`. Find recursive and replace
+## 4. Remove non-alphanumeric characters from filenames
 ```bash
-find . -name "*.md" | xargs sed -i "s/^Navigation:/toc:/gi"
-find . -name "*.qmd" | xargs sed -i "s/^Navigation:/toc:/gi"
+for i in {1..2}; do # for some reason we need to loop as it sometime misses to rename all files
+    yq e   '. | keys' hymnals.yaml | while read -r linei ; do     # get all keys(hymnal shortnames)
+        hymnal=$(echo $linei |cut -b 3-) # remove the leading dash and whitespace (- blog -> blog)
+        hymnal=$(yq e ".$hymnal.link"  hymnals.yaml)
+        find "./$hymnal" -type d -wholename "*[^[:alnum:]+._/-]*"  | sort -r | while read -r line ; do 
+            echo $line
+            reversed=$( echo $line|rev) # use reverse so we can replace the last occurence as the first
+            newPath=$( echo $reversed | sed -e 's|[^[:alnum:]+._/-]||g' |rev ) 
+            # lastDir=$(echo $newPath|rev |sed -e 's|^[^/]*/||g' |rev ) 
+            # echo $lastDir
+            # mkdir -p "$lastDir"
+            mv "$line" "$newPath"
+        done
+    done
+done
+```
+
+## 5. Replace some values
+The `Navigation` field in the jekyll files cannot be processed by quarto. So we need to change these to `toc`. Find recursive and replace.
+
+Replace also first occurence of `title:` with `pagetitle`. This will prevent the creation of a title and description element int he body of document.
+
+```bash
+# find . -name "*.md" | xargs sed -i "s/^Navigation:/toc:/gi"
+# find . -name "*.md" | xargs sed -i "s/^title:/pagetitle:/i"
+# find . -name "*.qmd" | xargs sed -i "s/^Navigation:/toc:/gi"
+yq e   '. | keys' hymnals.yaml | while read -r linei ; do     # get all keys(hymnal shortnames)
+    hymnal=$(echo $linei |cut -b 3-) # remove the leading dash and whitespace (- blog -> blog)
+    hymnal=$(yq e ".$hymnal.link"  hymnals.yaml)
+    echo $hymnal
+    find "./$hymnal"  -wholename "*.md*"| while read -r file ; do 
+            echo $file
+            sed -i "s/^Navigation:/toc:/gi" $file
+            sed -i "s/^title:/pagetitle:/i" $file
+    done
+    find "./$hymnal"  -wholename "*.qmd*"| while read -r file ; do 
+            sed -i "s/^Navigation:/toc:/gi" $file
+            sed -i "s/^title:/pagetitle:/i" $file
+    done
+done
 ```
 
 
-## 5. Remove date from jekyll file paths.
+## 6. Remove date from jekyll file paths.
 
 We can't use regex in the name to match `\.q?md`. Since we have only one optional character, we can use or.
 
 ```bash
 find . -wholename "*/[0-9][0-9][0-9][0-9]\-[0-9][0-9]\-[0-9][0-9]-*.qmd" -or -wholename "*/[0-9][0-9][0-9][0-9]\-[0-9][0-9]\-[0-9][0-9]-*.md" | while read -r line ; do 
     newPath=$( echo $line | sed -e 's|/[0-9][0-9][0-9][0-9]\-[0-9][0-9]\-[0-9][0-9]-|/|g' )
+    echo $newPath
     mv "$line" "$newPath"
 done
 ```
 
 
-## 6. Rename csycms files
+## 7. Rename csycms files
 
-We start by removing the directory numbers from the paths. 
+We start by removing the directory numbers from the paths. The strategy is to rename the directories from those deepest in the hierarchy. That's the use of the `sort` command. This way all the directories that need to be renamed will still exist by the time the loop gets to them.
 
 ```bash
 find . -wholename "*/[0-9][0-9].*"  | sort -r | while read -r line ; do 
@@ -110,6 +148,194 @@ done
 Then we remove all empty directories
 ```bash
 find . -type d -empty -delete
+```
+## 8. Replace preface with index
+Move `hymnal/index.md` to `hymnal/preface.md` and `hymnal/indices/index.md` to `hymnal/index.md`. We will use tags for the other indices.
+
+```bash
+yq e   '. | keys' hymnals.yaml | while read -r line ; do     # get all keys(hymnal shortnames)
+    hymnal=$(echo $line |cut -b 3-) # remove the leading dash and whitespace (- blog -> blog)
+    hymnal=$(yq e ".$hymnal.link"  hymnals.yaml)
+    if [ -d "$hymnal/indices" ]; then # if its a hymnal, (with indices dir)
+        mv "$hymnal/index.md" "$hymnal/preface.md"
+        mv "$hymnal/indices/index.md" "$hymnal/index.md"
+        rm -rf "$hymnal/indices"
+    fi
+   
+done
+```
+
+## 9. Generate Sidebar Navigation Links
+We group the hynmals by year in descending order. Non hymnal collections such as blog sit by themselves at the bottom. The generated toc is inserted after the last item under contents in `_quarto.yml`
+
+```bash
+echo "" > toc.txt
+## Sort the hymnals by year
+yq e   '. | keys' hymnals.yaml | while read -r line ; do     # get all keys(hymnal shortnames)
+    hymnal=$(echo $line |cut -b 3-) # remove the leading dash and whitespace (- blog -> blog)
+    link=$(yq e ".$hymnal.link"  hymnals.yaml)
+    siteName=$(yq e ".$hymnal.siteName"  hymnals.yaml)
+    if [ "$siteName" == "null" ]; then
+        siteName=$(yq e ".$hymnal.name"  hymnals.yaml)
+    fi
+    if [ "$siteName" != "null" ]; then
+        if [ "$link" != "null" ]; then
+            year=$(yq e ".$hymnal.year"  hymnals.yaml)
+            type=$(yq e ".$hymnal.type"  hymnals.yaml)
+            if [ "$type" == "null" ]; then
+                type="hymnal"
+            fi
+            if [ "$type" == "hymnal" ]; then
+                echo "$year$hymnal" >> toc.txt
+            fi
+        fi
+    fi
+done
+
+sort -r toc.txt -o toc1.txt && echo "">toc.txt
+
+## remove year from hymnal short names
+sed -i 's/^[0-9][0-9][0-9][0-9]//' toc1.txt
+
+for hymnal in $(cat toc1.txt); do
+    link=$(yq e ".$hymnal.link"  hymnals.yaml)
+    siteName=$(yq e ".$hymnal.siteName"  hymnals.yaml)
+    if [ "$siteName" == "null" ]; then
+        siteName=$(yq e ".$hymnal.name"  hymnals.yaml)
+    fi
+    echo "      - href: $link" >> toc.txt
+    echo "        text: $siteName" >> toc.txt
+done
+
+## remove blank lines
+sed -i '/^$/d' toc.txt 
+## insert into toc
+sed -i '/^format:/e cat toc.txt' _quarto.yml
+
+## do for blogs
+echo "" > toc.txt
+## Sort the hymnals by year
+yq e   '. | keys' hymnals.yaml | while read -r line ; do     # get all keys(hymnal shortnames)
+    hymnal=$(echo $line |cut -b 3-) # remove the leading dash and whitespace (- blog -> blog)
+    link=$(yq e ".$hymnal.link"  hymnals.yaml)
+    siteName=$(yq e ".$hymnal.siteName"  hymnals.yaml)
+    if [ "$siteName" == "null" ]; then
+        siteName=$(yq e ".$hymnal.name"  hymnals.yaml)
+    fi
+    if [ "$siteName" != "null" ]; then
+        if [ "$link" != "null" ]; then
+            year=$(yq e ".$hymnal.year"  hymnals.yaml)
+            type=$(yq e ".$hymnal.type"  hymnals.yaml)
+            if [ "$type" == "blog" ]; then
+                echo "$year$hymnal" >> toc.txt
+            fi
+        fi
+    fi
+done
+
+sort -r toc.txt -o toc1.txt && echo "">toc.txt
+
+## remove year from hymnal short names
+sed -i 's/^[0-9][0-9][0-9][0-9]//' toc1.txt
+
+for hymnal in $(cat toc1.txt); do
+    link=$(yq e ".$hymnal.link"  hymnals.yaml)
+    siteName=$(yq e ".$hymnal.siteName"  hymnals.yaml)
+    if [ "$siteName" == "null" ]; then
+        siteName=$(yq e ".$hymnal.name"  hymnals.yaml)
+    fi
+    echo "      - href: $link" >> toc.txt
+    echo "        text: $siteName" >> toc.txt
+done
+
+## remove blank lines
+sed -i '/^$/d' toc.txt 
+## insert into toc
+sed -i '/^format:/e cat toc.txt' _quarto.yml
+echo "" > toc.txt
+## Sort the hymnals by year
+yq e   '. | keys' hymnals.yaml | while read -r line ; do     # get all keys(hymnal shortnames)
+    hymnal=$(echo $line |cut -b 3-) # remove the leading dash and whitespace (- blog -> blog)
+    link=$(yq e ".$hymnal.link"  hymnals.yaml)
+    siteName=$(yq e ".$hymnal.siteName"  hymnals.yaml)
+    if [ "$siteName" == "null" ]; then
+        siteName=$(yq e ".$hymnal.name"  hymnals.yaml)
+    fi
+    if [ "$siteName" != "null" ]; then
+        if [ "$link" != "null" ]; then
+            year=$(yq e ".$hymnal.year"  hymnals.yaml)
+            type=$(yq e ".$hymnal.type"  hymnals.yaml)
+            if [ "$type" == "null" ]; then
+                type="hymnal"
+            fi
+            if [ "$type" == "hymnal" ]; then
+                echo "$year$hymnal" >> toc.txt
+            fi
+        fi
+    fi
+done
+
+sort -r toc.txt -o toc1.txt && echo "">toc.txt
+
+## remove year from hymnal short names
+sed -i 's/^[0-9][0-9][0-9][0-9]//' toc1.txt
+
+for hymnal in $(cat toc1.txt); do
+    link=$(yq e ".$hymnal.link"  hymnals.yaml)
+    siteName=$(yq e ".$hymnal.siteName"  hymnals.yaml)
+    if [ "$siteName" == "null" ]; then
+        siteName=$(yq e ".$hymnal.name"  hymnals.yaml)
+    fi
+    echo "      - href: $link" >> toc.txt
+    echo "        text: $siteName" >> toc.txt
+done
+
+## remove blank lines
+sed -i '/^$/d' toc.txt 
+## insert into toc
+sed -i '/^format:/e cat toc.txt' _quarto.yml
+
+## do for blogs
+echo "" > toc.txt
+## Sort the hymnals by year
+yq e   '. | keys' hymnals.yaml | while read -r line ; do     # get all keys(hymnal shortnames)
+    hymnal=$(echo $line |cut -b 3-) # remove the leading dash and whitespace (- blog -> blog)
+    link=$(yq e ".$hymnal.link"  hymnals.yaml)
+    siteName=$(yq e ".$hymnal.siteName"  hymnals.yaml)
+    if [ "$siteName" == "null" ]; then
+        siteName=$(yq e ".$hymnal.name"  hymnals.yaml)
+    fi
+    if [ "$siteName" != "null" ]; then
+        if [ "$link" != "null" ]; then
+            year=$(yq e ".$hymnal.year"  hymnals.yaml)
+            type=$(yq e ".$hymnal.type"  hymnals.yaml)
+            if [ "$type" == "blog" ]; then
+                echo "$year$hymnal" >> toc.txt
+            fi
+        fi
+    fi
+done
+
+sort -r toc.txt -o toc1.txt && echo "">toc.txt
+
+## remove year from hymnal short names
+sed -i 's/^[0-9][0-9][0-9][0-9]//' toc1.txt
+
+for hymnal in $(cat toc1.txt); do
+    link=$(yq e ".$hymnal.link"  hymnals.yaml)
+    siteName=$(yq e ".$hymnal.siteName"  hymnals.yaml)
+    if [ "$siteName" == "null" ]; then
+        siteName=$(yq e ".$hymnal.name"  hymnals.yaml)
+    fi
+    echo "      - href: $link" >> toc.txt
+    echo "        text: $siteName" >> toc.txt
+done
+
+## remove blank lines
+sed -i '/^$/d' toc.txt 
+## insert into toc
+sed -i '/^format:/e cat toc.txt' _quarto.yml
+rm toc.*
 ```
 
 The complete script is available [here](https://raw.githubusercontent.com/adventHymnals/resources/master/scripts/csycmstoquarto.sh).

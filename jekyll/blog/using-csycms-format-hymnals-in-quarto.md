@@ -47,21 +47,131 @@ yq e   '. | keys' hymnals.yaml | while read -r line ; do     # get all keys(hymn
 done
 ```
 
-## 4. Replace some values
-The `Navigation` field in the jekyll files cannot be processed by quarto. So we need to change these to `toc`. Find recursive and replace
+## 4. Remove non-alphanumeric characters from filenames
 ```bash
-find . -name "*.md" | xargs sed -i "s/^Navigation:/toc:/g"
-find . -name "*.qmd" | xargs sed -i "s/^Navigation:/toc:/g"
+for i in {1..2}; do # for some reason we need to loop as it sometime misses to rename all files
+    yq e   '. | keys' hymnals.yaml | while read -r linei ; do     # get all keys(hymnal shortnames)
+        hymnal=$(echo $linei |cut -b 3-) # remove the leading dash and whitespace (- blog -> blog)
+        hymnal=$(yq e ".$hymnal.link"  hymnals.yaml)
+        find "./$hymnal" -type d -wholename "*[^[:alnum:]+._/-]*"  | sort -r | while read -r line ; do 
+            echo $line
+            reversed=$( echo $line|rev) # use reverse so we can replace the last occurence as the first
+            newPath=$( echo $reversed | sed -e 's|[^[:alnum:]+._/-]||g' |rev ) 
+            # lastDir=$(echo $newPath|rev |sed -e 's|^[^/]*/||g' |rev ) 
+            # echo $lastDir
+            # mkdir -p "$lastDir"
+            mv "$line" "$newPath"
+        done
+    done
+done
+```
+
+## 5. Replace some values
+The `Navigation` field in the jekyll files cannot be processed by quarto. So we need to change these to `toc`. Find recursive and replace.
+
+Replace also first occurence of `title:` with `pagetitle`. This will prevent the creation of a title and description element int he body of document.
+
+```bash
+# find . -name "*.md" | xargs sed -i "s/^Navigation:/toc:/gi"
+# find . -name "*.md" | xargs sed -i "s/^title:/pagetitle:/i"
+# find . -name "*.qmd" | xargs sed -i "s/^Navigation:/toc:/gi"
+yq e   '. | keys' hymnals.yaml | while read -r linei ; do     # get all keys(hymnal shortnames)
+    hymnal=$(echo $linei |cut -b 3-) # remove the leading dash and whitespace (- blog -> blog)
+    hymnal=$(yq e ".$hymnal.link"  hymnals.yaml)
+    echo $hymnal
+    find "./$hymnal"  -wholename "*.md*"| while read -r file ; do 
+            echo $file
+            sed -i "s/^Navigation:/toc:/gi" $file
+            sed -i "s/^title:/pagetitle:/i" $file
+    done
+    find "./$hymnal"  -wholename "*.qmd*"| while read -r file ; do 
+            sed -i "s/^Navigation:/toc:/gi" $file
+            sed -i "s/^title:/pagetitle:/i" $file
+    done
+done
 ```
 
 
-## 5. Remove date from jekyll file paths.
+## 6. Remove date from jekyll file paths.
 
 We can't use regex in the name to match `\.q?md`. Since we have only one optional character, we can use or.
 
 ```bash
 find . -wholename "*/[0-9][0-9][0-9][0-9]\-[0-9][0-9]\-[0-9][0-9]-*.qmd" -or -wholename "*/[0-9][0-9][0-9][0-9]\-[0-9][0-9]\-[0-9][0-9]-*.md" | while read -r line ; do 
-    newPAth=$( echo $line | sed -e 's|/[0-9][0-9][0-9][0-9]\-[0-9][0-9]\-[0-9][0-9]-|/|g' )
-    mv "$line" "$newPAth"
+    newPath=$( echo $line | sed -e 's|/[0-9][0-9][0-9][0-9]\-[0-9][0-9]\-[0-9][0-9]-|/|g' )
+    echo $newPath
+    mv "$line" "$newPath"
 done
+```
+
+
+## 7. Rename csycms files
+
+We start by removing the directory numbers from the paths. The strategy is to rename the directories from those deepest in the hierarchy. That's the use of the `sort` command. This way all the directories that need to be renamed will still exist by the time the loop gets to them.
+
+```bash
+find . -wholename "*/[0-9][0-9].*"  | sort -r | while read -r line ; do 
+    reversed=$( echo $line|rev) # use reverse so we can replace the last occurence as the first
+    newPath=$( echo $reversed | sed -e 's|\.[0-9][0-9]/|/|g' |rev ) 
+    
+    #last dir
+    lastDir=$(echo $newPath|rev |sed -e 's|^[^/]*/||g' |rev ) 
+    echo "mv $line $newPath\n$lastDir" >> lines.txt
+    mkdir -p "$lastDir"
+    mv "$line" "$newPath"
+    # if [ -d "$newPath" ]; then
+    #     echo "cp -r $line/* $newPath/" >> lines.txt
+    #     cp -r "$line/* $newPath/" && rm -rf "$line"
+    # else
+    #     mv "$line" "$newPath"
+    # fi
+done
+```
+
+Then we rename `chaper.md` to `index.md`
+
+```bash
+find . -wholename "*/chapter.md"  | while read -r line ; do 
+    newPath=$( echo $line | sed -e 's|/chapter\.md|/index.md|' ) 
+    mv "$line" "$newPath"
+done
+```
+
+Then we rename all `docs.md`
+```bash
+find . -wholename "*/docs.md"  | while read -r line ; do 
+    newPath=$( echo $line | sed -e 's|/\([^\]*\)/docs\.md|/\1.md|' ) 
+    mv "$line" "$newPath"
+done
+```
+
+Then we remove all empty directories
+```bash
+find . -type d -empty -delete
+```
+## 8. Replace preface with index
+Move `hymnal/index.md` to `hymnal/preface.md` and `hymnal/indices/index.md` to `hymnal/index.md`. We will use tags for the other indices.
+
+```bash
+yq e   '. | keys' hymnals.yaml | while read -r line ; do     # get all keys(hymnal shortnames)
+    hymnal=$(echo $line |cut -b 3-) # remove the leading dash and whitespace (- blog -> blog)
+    hymnal=$(yq e ".$hymnal.link"  hymnals.yaml)
+    if [ -d "$hymnal/indices" ]; then // if its a hymnal, (with indices dir)
+        mv "$hymnal/index.md" "$hymnal/preface.md"
+        mv "$hymnal/indices/index.md" "$hymnal/index.md"
+        rm -rf "$hymnal/indices"
+    fi
+   
+done
+```
+
+The complete script is available [here](https://raw.githubusercontent.com/adventHymnals/resources/master/scripts/csycmstoquarto.sh).
+
+Add it to the github workflow:
+```yaml
+- name: Download and process csycms hymnals
+        run: |
+          wget -O csycmstoquarto.sh https://raw.githubusercontent.com/adventHymnals/resources/master/scripts/csycmstoquarto.sh
+          chmod +x csycmstoquarto.sh
+          ./csycmstoquarto.sh
 ```

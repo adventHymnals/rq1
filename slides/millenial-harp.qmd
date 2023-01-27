@@ -1,0 +1,3515 @@
+---
+title: "Millenial Harp"
+author:
+  - brian Onang'o
+format: 
+  revealjs:
+    multiplex: true
+    theme: ["../pp.scss"]
+    slide-number: c/t
+    incremental: true
+    title-slide-attributes:
+      data-background-image: ../images/penguin-highway.jpg
+      data-background-size: cover  
+editor: visual
+---
+
+---
+pagetitle: Millenial Harp - Advent Hymnals
+metadata:
+    description: Advent Hymnals - Millenial Harp
+    keywords: Millenial Harp, adventhymnals, advent hymnals
+    author: Brian Onang'o
+---
+
+
+
+
+# Preface
+
+THE Harp, in its present form, embraces nearly all the hymns contained in our well-known works, - the "Millenial Harp", "Musings", and "Melodies" - (those only having been ommited which rarely, if ever, sung), and is designed to furnish a more complete and convenient selection, to be used in our Advent meetings. The hurry with which the above-named works were got through the press, necessarily made them, in many respects, defective; though, with all their defects, they have been the means of accomplishing a vast amount of good, by conveying the truth to the mind of those who were in the dark, and awakening the careless; by inspiring new hope in the fainting soul, quickeing the languid, and giving utterance to the burning desires and sublime expectations of those who are longing for the appearance of Jesus Christ.
+
+We are aware of the difficulty of suiting the taste of all classes in musical and devotional compositions; the greatest possible diversity for this purpose, which is consistent with the nature of the work in which we are are engaged, must therefore be allowed. Some of our hymns, which might be objected to by the more grave and intellectualm and to which we ourselves have never felt any great partiality, have been the means of reaching, for good, te hearts of those who, probablym would not otherwise have affected; and as our object, like that of the Apostle is to *save men*, we should not hesitate to use all means lawful, that may promise to "save some".
+
+The general expression of approbation which our former works have called forth, assures us that this effort to improve our *Advent Harp* will be appreciated by all the true friends of the Advent Cause.
+
+*Boston, October 23, 1843*
+
+---
+pagetitle: |
+    047. I want to wear the crown - Millenial Harp
+metadata:
+    description: |
+        Millenial Harp 047. I want to wear the crown. 1. Jesus, my all to heav’n is gone; I want to wear the crown, He whom I fix my hopes upon; I want to wear the crown, Oh my heart says praise the Lord, my heart says praise the Lord, my heart says praise the Lord, I want to wear the crown.
+    keywords:  |
+        Millenial Harp, adventhymnals, advent hymnals, I want to wear the crown, Jesus, my all to heav’n is gone; . 
+    author: Brian Onang'o
+---
+
+## 047. I WANT TO WEAR THE CROWN
+
+
+```txt
+Jesus, my all to heav’n is gone; 
+I want to wear the crown, 
+He whom I fix my hopes upon; 
+I want to wear the crown, 
+Oh my heart says praise the Lord, 
+my heart says praise the Lord, 
+my heart says praise the Lord, 
+I want to wear the crown.
+```
+ 
+The way the holy prophets went, <br>
+I want to wear the crown, 
+The road that leads from banishment; 
+I want to wear the crown, 
+Oh my heart says praise the Lord, 
+my heart says praise the Lord, 
+my heart says praise the Lord, 
+I want to wear the crown.
+
+3. 
+His track I see, and I’ll pursue, 
+I want to wear the crown, 
+The narrow way, till him I view, 
+I want to wear the crown; 
+Oh my heart says, etc.
+
+4. 
+The King’s highway of holiness, 
+I want to wear the crown, 
+I’ll go, for all his paths are peace. 
+I want to wear the crown. 
+Oh my heart says, etc.
+
+5. 
+Lo! glad I come, and thou, blest Lamb, 
+I want to wear the crown, 
+Shalt take me to thee whose I am; 
+I want to wear the crown, 
+Oh my heart says, etc.
+
+6. 
+Nothing but sin have I to give, 
+I want to wear the crown, 
+Nothing but love shall I receive. 
+I want to wear the crown, 
+Oh my heart says praise, etc.
+
+7. 
+Then will I tell to sinners round, 
+I want to wear the crown, 
+What a dear Savior I have found, 
+I want to wear the crown, 
+Oh my heart says, etc.
+
+8. 
+I’ll point to thy redeeming blood, 
+I want to wear the crown, 
+And say, ‘Behold the way to God!’ 
+I want to wear the crown, 
+Oh my heart says, etc.
+
+    
+---
+pagetitle: |
+    045. Come to Jesus - Millenial Harp
+metadata:
+    description: |
+        Millenial Harp 045. Come to Jesus. 1. Come to Jesus, Come to Jesus, Come to Jesus, Come to Jesus, Come to Jesus, just now. Just now, just now, Come to Jesus just now.
+    keywords:  |
+        Millenial Harp, adventhymnals, advent hymnals, Come to Jesus, Come to Jesus, Come to Jesus, . 
+    author: Brian Onang'o
+---
+
+## 045. COME TO JESUS
+
+```txt
+1. 
+Come to Jesus, Come to Jesus, 
+Come to Jesus, Come to Jesus, 
+Come to Jesus, just now. 
+Just now, just now, 
+Come to Jesus just now.
+
+2 He is willing, Just now. 
+3 He is able, Just now. 
+4 He is knocking, Just now. 
+5 Can you hate him, Just now. 
+6 Time is flying, Just now. 
+7 Hell you linger, Just now. 
+8 Come poor sinner, Just now. 
+9 Hell is burning, Just now. 
+10 Come my neighbors, Just now. 
+11 Christ is pleading, Just now. 
+12 Do not slight him, Just now. 
+13 Come ye wounded, Just now. 
+14 Shame the Devil, Just now. 
+15 O be honest, Just now. 
+16 God is waiting, Just now. 
+17 Christ may leave you, just now. 
+18 Get religion, Just now. 
+19 Love the Savior, Just now. 
+20 Pray on brethren, Just now. 
+21 Pray on sisters, Just now. 
+22 Satan trembles, Just now. 
+23 Heaven rejoices, Just now. 
+24 If you hate him, Just now. 
+25 You’ll repent it, So soon. 
+26 O the Judgment, So soon. 
+27 Death is coming, So soon. 
+28 Death and judgment, So soon. 
+29 Hell or heaven, So soon. 
+30 All is over, So soon.
+```
+- |   -  |
+-------------|------------|
+Title | Come to Jesus |
+Key |  |
+Titles |  |
+First Line | Come to Jesus, Come to Jesus,  |
+Author | 
+Year | 
+Composer|  |
+Hymnal|  - |
+Tune|  |
+Metrical pattern | |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
+Subjects |  |
+Texts |  |
+Print Texts | 
+Scripture Song |  |
+    
+---
+pagetitle: |
+    048. The Morning Star - Millenial Harp
+metadata:
+    description: |
+        Millenial Harp 048. The Morning Star. 1.  The night is wearing fast away,  A streak of light is dawning, Sweet harbinger of that bright day, The fair Millennial morning.  Gloomy and dark the night has been, And long the way, and dreary;  And sad the weeping saints are seen, And faint, and worn and weary.
+    keywords:  |
+        Millenial Harp, adventhymnals, advent hymnals, The Morning Star,  The night is wearing fast away, . 
+    author: Brian Onang'o
+---
+
+## 048. THE MORNING STAR
+
+```txt
+1. 
+ The night is wearing fast away, 
+ A streak of light is dawning, 
+Sweet harbinger of that bright day, 
+The fair Millennial morning. 
+ Gloomy and dark the night has been, 
+And long the way, and dreary;  
+And sad the weeping saints are seen, 
+And faint, and worn and weary.
+
+2. 
+ Ye mourning pilgrims, cease your tears, 
+ 
+f The light of that bright morn appears,— 
+The long sabbatic morrow. 
+ Lift up your heads—behold from far 
+A flood of splendor streaming! 
+It is the bright and Morning-Star, 
+In living lustre beaming!
+
+3. 
+And see that star-like host around 
+Of angel bands, attending; 
+Hark! hark! the trumpet’s glad’ning sound, 
+‘Mid shouts triumphant blending. 
+He comes, the Bridegroom promised long- 
+Go forth with joy to meet him; 
+And raise the new and nuptial song, 
+In cheerful strains to greet him.
+
+4. 
+Adorn thyself, the feast prepare, 
+While bridal strains are swelling; 
+He comes, with thee all joys to share, 
+And make this earth his dwelling. 
+ Lift up your heads-behold from far 
+A flood of splendor streaming! 
+It is the bright and Morning-Star, 
+In living lustre beaming!
+```
+- |   -  |
+-------------|------------|
+Title | The Morning Star |
+Key |  |
+Titles |  |
+First Line |  The night is wearing fast away,  |
+Author | 
+Year | 
+Composer|  |
+Hymnal|  - |
+Tune|  |
+Metrical pattern | |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
+Subjects |  |
+Texts |  |
+Print Texts | 
+Scripture Song |  |
+    
+---
+pagetitle: |
+    041. Canaan - Millenial Harp
+metadata:
+    description: |
+        Millenial Harp 041. Canaan. 1. Together let us sweetly live, I am bound for the land of Canaan; Together let us sweetly die, I am bound for the land of Canaan. O Canaan, bright Canaan, I am bound for the land of Canaan; O Canaan, it is my happy home, I am bound for the land of Canaan.
+    keywords:  |
+        Millenial Harp, adventhymnals, advent hymnals, Canaan, Together let us sweetly live, I am bound for the land of Canaan; . 
+    author: Brian Onang'o
+---
+
+## 041. CANAAN
+
+```txt
+1. 
+Together let us sweetly live, I am bound for the land of Canaan; 
+Together let us sweetly die, I am bound for the land of Canaan. 
+O Canaan, bright Canaan, 
+I am bound for the land of Canaan; 
+O Canaan, it is my happy home, 
+I am bound for the land of Canaan.
+
+2. 
+If you get there before I do, I am bound for the land of Canaan. 
+Look out for me, I’m coming too, I am bound, etc. 
+O Canaan, bright Canaan, etc.
+
+3. 
+I have some friends before me gone, I am bound, etc. 
+And I’m resolved to travel on, I am bound, etc. 
+O Canaan, bright Canaan, etc.
+
+4. 
+Our songs of praise shall fill the skies, I am bound, etc. 
+While higher still our joys they rise, I am bound, etc. 
+O Canaan, bright Canaan, etc.
+
+5. 
+Then come with me, beloved friend, I am bound, etc. 
+The joys of heaven shall never end, I am bound, etc. 
+O Canaan, bright Canaan, etc.
+```
+- |   -  |
+-------------|------------|
+Title | Canaan |
+Key |  |
+Titles |  |
+First Line | Together let us sweetly live, I am bound for the land of Canaan;  |
+Author | 
+Year | 
+Composer|  |
+Hymnal|  - |
+Tune|  |
+Metrical pattern | |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
+Subjects |  |
+Texts |  |
+Print Texts | 
+Scripture Song |  |
+    
+---
+pagetitle: |
+    046. Blessing of the New Covenant - Millenial Harp
+metadata:
+    description: |
+        Millenial Harp 046. Blessing of the New Covenant. 1. Ye who know your sins forgiven, And are happy in the Lord. Have you read that gracious promise, Which is left upon record: I will sprinkle you with water, I will cleanse you from all sin:  Sanctify and make you holy, I will dwell and reign within.
+    keywords:  |
+        Millenial Harp, adventhymnals, advent hymnals, Blessing of the New Covenant, Ye who know your sins forgiven, . 
+    author: Brian Onang'o
+---
+
+### 046. BLESSING OF THE NEW COVENANT
+
+```txt
+1. 
+Ye who know your sins forgiven, 
+And are happy in the Lord. 
+Have you read that gracious promise, 
+Which is left upon record: 
+I will sprinkle you with water, 
+I will cleanse you from all sin:  
+Sanctify and make you holy, 
+I will dwell and reign within.
+
+2. 
+Tho’ you have much peace and comfort, 
+Greater things you yet may find, 
+Freedom from unholy tempers, 
+Freedom from the carnal mind. 
+To procure your perfect freedom, 
+Jesus suffer’d, groan’d, and died, 
+On the cross the healing fountain, 
+Gushed from his wounded side.
+
+3. 
+If you have obtained this treasure, 
+Search and you shall surely find 
+All the Christian marks and graces, 
+Planted, growing, in your mind. 
+Perfect faith, and perfect patience, 
+Perfect lowliness, and then 
+Perfect hope, and perfect meekness, 
+Perfect love for God and man.
+
+4. 
+But be sure to gain the witness, 
+Which asides both day and night; 
+This your God has plainly promis’d, 
+This is like a stream of light. 
+While you keep the blessed witness, 
+All is clear and calm within; 
+God himself assures you by it 
+That your heart is cleansed from sin.
+
+5. 
+Be as holy and as happy, 
+And as useful here below, 
+As it is your Father’s pleasures, 
+Jesus, only Jesus know. 
+Spread, O spread the holy fire, 
+Tell, O tell what God has done, 
+Till the nations are conformed 
+To the image of his Son.
+
+6. 
+Witnesses might be produced, 
+Of this glorious work of love, 
+Paul and James, and John and Peter, 
+Long before they went above. 
+Hundreds, thousands, tens of thousands, 
+Have, and do, and will appear; 
+Let me ask the solemn question, 
+Has the Lord a witness here.
+
+7. 
+Wake up brother, wake up sister, 
+Seek, O seek this holy state; 
+None but holy ones can enter 
+Thro’ the pure celestial gate. 
+Can you bear the tho’t of losing 
+All the joys that are above? 
+No, my brother, no, my sister, 
+God will perfect you in love.
+```
+- |   -  |
+-------------|------------|
+Title | Blessing of the New Covenant |
+Key |  |
+Titles |  |
+First Line | Ye who know your sins forgiven,  |
+Author | 
+Year | 
+Composer|  |
+Hymnal|  - |
+Tune|  |
+Metrical pattern | |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
+Subjects |  |
+Texts |  |
+Print Texts | 
+Scripture Song |  |
+    
+---
+pagetitle: |
+    042. The Pilgrim’s Lot - Millenial Harp
+metadata:
+    description: |
+        Millenial Harp 042. The Pilgrim’s Lot. 1. How happy is the pilgrim’s lot, I am bound for the land of Canaan, How free from ev’ry anxious thought, I am bound for the land of Canaan. O Canaan! bright Canaan! I am bound for the land of Canaan, O Canaan, it is my happy home, I am bound for the land of Canaan.
+    keywords:  |
+        Millenial Harp, adventhymnals, advent hymnals, The Pilgrim’s Lot, How happy is the pilgrim’s lot, . 
+    author: Brian Onang'o
+---
+
+## 042. THE PILGRIM’S LOT
+
+```txt
+1. 
+How happy is the pilgrim’s lot, 
+I am bound for the land of Canaan, 
+How free from ev’ry anxious thought, 
+I am bound for the land of Canaan. 
+O Canaan! bright Canaan! 
+I am bound for the land of Canaan, 
+O Canaan, it is my happy home, 
+I am bound for the land of Canaan.
+
+2. 
+Nothing on earth I call my own, 
+I am bound for the land of Canaan, 
+A stranger to the world unknown, 
+I am bound for the land of Canaan, 
+O Canaan, etc.
+
+3. 
+I trample on the whole delight, 
+I am bound for the land of Canaan, 
+And seek a city out of sight, 
+I am bound for the land of Canaan, 
+O Canaan, etc.
+
+4. 
+There is my house and portion fair, 
+I am bound for the land of Canaan, 
+My treasure and my heart are there, 
+I am bound for the land of Canaan, 
+O Canaan, etc.
+
+5. 
+For me my elder brethren stay, 
+I am bound for the land of Canaan, 
+And angels beckon me away, 
+I am bound for the land of Canaan, 
+O Canaan, etc.
+```
+- |   -  |
+-------------|------------|
+Title | The Pilgrim’s Lot |
+Key |  |
+Titles |  |
+First Line | How happy is the pilgrim’s lot,  |
+Author | 
+Year | 
+Composer|  |
+Hymnal|  - |
+Tune|  |
+Metrical pattern | |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
+Subjects |  |
+Texts |  |
+Print Texts | 
+Scripture Song |  |
+    
+---
+pagetitle: |
+    050. Home - Millenial Harp
+metadata:
+    description: |
+        Millenial Harp 050. Home. Dolce. 1 Oh! Land of rest, for thee I sigh, When will the moment come, When I shall lay my armor by, And dwell with Christ at home.
+    keywords:  |
+        Millenial Harp, adventhymnals, advent hymnals, Home, 1 . 
+    author: Brian Onang'o
+---
+
+## 050. HOME
+
+```txt
+Dolce. 
+1 
+Oh! Land of rest, for thee I sigh, 
+When will the moment come, 
+When I shall lay my armor by, 
+And dwell with Christ at home.
+
+2. 
+No tranquil joys on earth I know, 
+No peaceful sheltering dome; 
+This world’s a wilderness of wo, 
+This world is not my home.
+
+3. 
+To Jesus Christ I sought for rest, 
+He bade me cease to roam; 
+And fly for succor to his breast, 
+And he’d conduct me home.
+
+4. 
+I would at once have quit this place, 
+Where foes in fury roam, 
+But ah! my passport was not sealed, 
+I could not yet go home.
+
+5. 
+When by afflictions sharply tried, 
+I view the gaping tomb; 
+Although I dread death’s chilling flood, 
+Yet still I sigh for home.
+
+6. 
+Weary of wandering round and round, 
+This vale of sin and gloom; 
+I long to leave th’unhallowed ground, 
+And dwell with Christ at home.
+```
+- |   -  |
+-------------|------------|
+Title | Home |
+Key |  |
+Titles |  |
+First Line | 1  |
+Author | 
+Year | 
+Composer|  |
+Hymnal|  - |
+Tune|  |
+Metrical pattern | |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
+Subjects |  |
+Texts |  |
+Print Texts | 
+Scripture Song |  |
+    
+---
+pagetitle: |
+    043. Invitation - Millenial Harp
+metadata:
+    description: |
+        Millenial Harp 043. Invitation. 1. We ‘re trav’ling home to Heav’n above-Will you go? Will you go? To sing the Savior’s dying love-Will you go? Will you go? Millions have reach’d this blest abode, Anointed kings and priests to God. And millions now are on the road-Will you go? Will you go?
+    keywords:  |
+        Millenial Harp, adventhymnals, advent hymnals, Invitation, We ‘re trav’ling home to Heav’n above-Will you go? Will you go? . 
+    author: Brian Onang'o
+---
+
+## 043. INVITATION
+
+```txt
+1. 
+We ‘re trav’ling home to Heav’n above-Will you go? Will you go? 
+To sing the Savior’s dying love-Will you go? Will you go? 
+Millions have reach’d this blest abode, 
+Anointed kings and priests to God. 
+And millions now are on the road-Will you go? Will you go?
+
+2. 
+We’re going to see the bleeding Lamb,—Will you go? 
+In rapturous strains to praise his name,—Will you go? 
+The crown of life we there shall wear, 
+The conqueror’s palms our hands shall bear, 
+And all the joys of heaven we’ll share,—Will you go?
+
+3. 
+We’re going to join the Heavenly Choir,—Will you go? 
+To raise our voice and tune the lyre,—Will you go? 
+There saints and angels gladly sing, 
+Hosanna to their God and King, 
+And make the heavenly arches ring,—Will you go?
+
+4. 
+Ye weary, heavy laden, come,—Will you go? 
+In the blest house there still is room,—Will you go? 
+The Lord is waiting to receive, 
+If thou wilt on him now believe, 
+He’ll give thy troubled conscience ease,—Come believe!
+
+5. 
+The way to Heaven is free for all—Will you go? 
+For Jew and Gentile—great and small,—Will you go? 
+Make up your mind, give God your heart, 
+With every sin and idol part, 
+And now for glory, make a start,—Come away!
+
+6. 
+The way to Heaven is strait and plain,—Will you go? 
+Repent, believe, be born again,—Will you go? 
+The Savior cries aloud to thee, 
+“Take up thy cross and follow me,“ 
+And thou shalt my salvation see,—Come to me!
+
+7. 
+O, could I hear some sinner say,—I will go? 
+I’ll start this moment, clear the way,—Let me go! 
+My old companions, fare you well, 
+I will not go with you to hell, 
+I mean with Jesus Christ to dwell,—Let me go! Fare you well.
+```
+- |   -  |
+-------------|------------|
+Title | Invitation |
+Key |  |
+Titles |  |
+First Line | We ‘re trav’ling home to Heav’n above-Will you go? Will you go?  |
+Author | 
+Year | 
+Composer|  |
+Hymnal|  - |
+Tune|  |
+Metrical pattern | |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
+Subjects |  |
+Texts |  |
+Print Texts | 
+Scripture Song |  |
+    
+---
+pagetitle: |
+    044. Don’t you see my Jesus coming - Millenial Harp
+metadata:
+    description: |
+        Millenial Harp 044. Don’t you see my Jesus coming. Don’t you see my Jesus coming? See him come in yonder cloud, With ten thousand angels round him, How they of my Jesus crowd. I am bound for the kingdom, Will you go to glory with me. Hallelujah, O Hallelujah, I’m bound for the kingdom, will you go to glory with me, Hallelujah, O praise ye the Lord.
+    keywords:  |
+        Millenial Harp, adventhymnals, advent hymnals, Don’t you see my Jesus coming, See him come in yonder cloud, . 
+    author: Brian Onang'o
+---
+
+## 044. DON’T YOU SEE MY JESUS COMING
+
+```txt
+Don’t you see my Jesus coming? 
+See him come in yonder cloud, 
+With ten thousand angels round him, 
+How they of my Jesus crowd. 
+I am bound for the kingdom, 
+Will you go to glory with me. 
+Hallelujah, O Hallelujah, 
+I’m bound for the kingdom, 
+will you go to glory with me, 
+Hallelujah, O praise ye the Lord.
+```
+- |   -  |
+-------------|------------|
+Title | Don’t you see my Jesus coming |
+Key |  |
+Titles |  |
+First Line | See him come in yonder cloud,  |
+Author | 
+Year | 
+Composer|  |
+Hymnal|  - |
+Tune|  |
+Metrical pattern | |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
+Subjects |  |
+Texts |  |
+Print Texts | 
+Scripture Song |  |
+    
+---
+pagetitle: |
+    049. The Alarm - Millenial Harp
+metadata:
+    description: |
+        Millenial Harp 049. The Alarm. 1. Slow, We are living, we are dwelling, In a grand and awful time; In an age on ages telling, To be living is sublime. Lively. Hark! the waking up of nations,  Gog and Magog to the fray; Hark! what soundeth? is creation Groaning for its latter day?
+    keywords:  |
+        Millenial Harp, adventhymnals, advent hymnals, The Alarm, Slow, . 
+    author: Brian Onang'o
+---
+
+## 049. THE ALARM
+
+```txt
+1. 
+Slow, 
+We are living, we are dwelling, 
+In a grand and awful time; 
+In an age on ages telling, 
+To be living is sublime. 
+Lively. 
+Hark! the waking up of nations,  
+Gog and Magog to the fray; 
+Hark! what soundeth? is creation 
+Groaning for its latter day?
+
+2. 
+Will ye play, then, will ye dally, 
+With your music and your wine? 
+Up! it is Jehovah’s rally! 
+God’s own arm hath need of thine. 
+Hark! the onset! will ye fold your 
+Faith-clad arms in lazy lock? 
+Up, O up, thou drowsy soldier; 
+Worlds are charging to the shock.
+
+3. 
+Worlds are charging-heaven beholding; 
+Thou hast but an hour to fight; 
+Now the blazoned cross unfolding, 
+On-right onward, for the right. 
+On! let all the soul within you 
+For the truth’s sake go abroad! 
+Strike! let every nerve and sinew 
+Tell on ages-tell for God! 
+
+```
+- |   -  |
+-------------|------------|
+Title | The Alarm |
+Key |  |
+Titles |  |
+First Line | Slow,  |
+Author | 
+Year | 
+Composer|  |
+Hymnal|  - |
+Tune|  |
+Metrical pattern | |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
+Subjects |  |
+Texts |  |
+Print Texts | 
+Scripture Song |  |
+    
+---
+pagetitle: |
+    018. Jordan’s stormy Banks - Millenial Harp
+metadata:
+    description: |
+        Millenial Harp 018. Jordan’s stormy Banks. 1. On Jordan’s stormy banks I stand, And cast a wishful eye, To Canaan’s fair and happy land, Where my possessions lie. O, the transporting, rapturous scene, That rises To my sight! Sweet fields array’d in living green, And rivers of delight.
+    keywords:  |
+        Millenial Harp, adventhymnals, advent hymnals, Jordan’s stormy Banks, On Jordan’s stormy banks I stand, . 
+    author: Brian Onang'o
+---
+
+## 018. JORDAN’S STORMY BANKS
+
+```txt
+1. 
+On Jordan’s stormy banks I stand, 
+And cast a wishful eye, 
+To Canaan’s fair and happy land, 
+Where my possessions lie. 
+O, the transporting, rapturous scene, 
+That rises To my sight! 
+Sweet fields array’d in living green, 
+And rivers of delight.
+
+2. 
+There gen’rous fruits that never fail, 
+On trees immortal grow; 
+There rocks and hills and brooks and vale, 
+With milk and honey flow. 
+All o’er those wide extended plains, 
+Shines one eternal day; 
+There God the Son forever reigns, 
+And scatters night away.
+
+3. 
+No chilling winds, or poisonous breath 
+Can reach that healthful shore; 
+Sickness and sorrow, pain and death, 
+Are felt and feared no more. 
+When shall I reach that happy place, 
+And be forever blest? 
+When shall I see my Father’s face, 
+And in his bosom rest?
+
+4. 
+Fill’d with delight, my raptured soul 
+Would here no longer stay; 
+Though Jordan’s waves around me roll, 
+Fearless I’d launch away. 
+There on those high and flowery plains, 
+Our spirits ne’er shall tire; 
+But in perpetual, joyful strains, 
+Redeeming love admire. 
+[3] 
+```
+- |   -  |
+-------------|------------|
+Title | Jordan’s stormy Banks |
+Key |  |
+Titles |  |
+First Line | On Jordan’s stormy banks I stand,  |
+Author | 
+Year | 
+Composer|  |
+Hymnal|  - |
+Tune|  |
+Metrical pattern | |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
+Subjects |  |
+Texts |  |
+Print Texts | 
+Scripture Song |  |
+    
+---
+pagetitle: |
+    017. “O turn ye, O turn ye, for why will ye die.” - Millenial Harp
+metadata:
+    description: |
+        Millenial Harp 017. “O turn ye, O turn ye, for why will ye die.”. 1. O turn ye, O turn ye, for why will you die, When God in great mercy is coming so nigh? Now Jesus invites you, the Spirit says, Come, And angels are waiting to welcome you home.
+    keywords:  |
+        Millenial Harp, adventhymnals, advent hymnals, “O turn ye, O turn ye, for why will ye die.”, O turn ye, O turn ye, for why will you die, . 
+    author: Brian Onang'o
+---
+
+## 017. “O TURN YE, O TURN YE, FOR WHY WILL YE DIE.”
+
+```txt
+1. 
+O turn ye, O turn ye, for why will you die, 
+When God in great mercy is coming so nigh? 
+Now Jesus invites you, the Spirit says, Come, 
+And angels are waiting to welcome you home.
+
+2. 
+How vain the delusion, that while you delay, 
+Your hearts may grow better by staying away; 
+Come wretched, come starving, come just as you be 
+While streams of salvation are flowing so free.
+
+3. 
+And now Christ is ready your souls to receive, 
+O how can you question, if you will believe? 
+If sin is your burden, why will you not come? 
+Tis you he bids welcome; he bids you come home.
+
+4. 
+In riches, in pleasures, what can you obtain, 
+To soothe your affliction, or banish your pain? 
+To bear up your spirit when summon’d to die, 
+Or waft you to mansions of glory on high?
+
+5. 
+Why will you be starving and feeding on air? 
+There’s mercy in Jesus, enough and to spare; 
+If still you are doubting, make trial and see, 
+And prove that his mercy is boundless and free.
+
+6. 
+Come, give us your hand, and the Savior your heart, 
+And trusting in Heaven, we never shall part; 
+O how can we leave you? why will you not come; 
+We’ll journey together, and soon be at home. 
+See hymn on page 30, “Millennial Musings.”
+```
+- |   -  |
+-------------|------------|
+Title | “O turn ye, O turn ye, for why will ye die.” |
+Key |  |
+Titles |  |
+First Line | O turn ye, O turn ye, for why will you die,  |
+Author | 
+Year | 
+Composer|  |
+Hymnal|  - |
+Tune|  |
+Metrical pattern | |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
+Subjects |  |
+Texts |  |
+Print Texts | 
+Scripture Song |  |
+    
+---
+pagetitle: |
+    016. Expostulation. 11s - Millenial Harp
+metadata:
+    description: |
+        Millenial Harp 016. Expostulation. 11s. 1. O turn ye, O turn ye, for why will ye die? Since God in great mercy is coming so high; Since Jesus invites you, the Spirit says, Come, And angels are waiting to welcome you home.
+    keywords:  |
+        Millenial Harp, adventhymnals, advent hymnals, Expostulation. 11s, O turn ye, O turn ye, for why will ye die? . 
+    author: Brian Onang'o
+---
+
+## 016. EXPOSTULATION. 11S
+
+```txt
+1. 
+O turn ye, O turn ye, for why will ye die? 
+Since God in great mercy is coming so high; 
+Since Jesus invites you, the Spirit says, Come, 
+And angels are waiting to welcome you home.
+
+2. 
+Come now to the banquet and make no delay, 
+For Christ bids you welcome, he bids you to-day: 
+Come wretched, come, starving, come just as you be, 
+While streams of salvations are flowing so free.
+```
+- |   -  |
+-------------|------------|
+Title | Expostulation. 11s |
+Key |  |
+Titles |  |
+First Line | O turn ye, O turn ye, for why will ye die?  |
+Author | 
+Year | 
+Composer|  |
+Hymnal|  - |
+Tune|  |
+Metrical pattern | |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
+Subjects |  |
+Texts |  |
+Print Texts | 
+Scripture Song |  |
+    
+---
+pagetitle: |
+    020. Sons of Zion - Millenial Harp
+metadata:
+    description: |
+        Millenial Harp 020. Sons of Zion. 1. Come, all ye sons of Zion, Who are waiting for salvation, Have your lamps trim’d and burning, For, behold the proclamation. Saying, “All things now are ready For the poor and for the needy; All my fatlings now are kill’d, And prepared on the table.
+    keywords:  |
+        Millenial Harp, adventhymnals, advent hymnals, Sons of Zion, Come, all ye sons of Zion, . 
+    author: Brian Onang'o
+---
+
+## 020. SONS OF ZION
+
+```txt
+1. 
+Come, all ye sons of Zion, 
+Who are waiting for salvation, 
+Have your lamps trim’d and burning, 
+For, behold the proclamation. 
+Saying, “All things now are ready 
+For the poor and for the needy; 
+All my fatlings now are kill’d, 
+And prepared on the table.
+
+2. 
+O what a happy meeting, 
+When salvation is completed, 
+And tribulation’s ended, 
+And the spotless robe prepared, 
+For the Bride to be adorn’d, 
+In the jasper wall be crowned, 
+Saying, “Worthy is the Lamb,“ 
+In the new Jerusalem.
+
+4[sic] 
+O sinners, don’t be be doubting, 
+While the sons of God are shouting; 
+Come and join the happy army, 
+And there’s nothing that will harm you. 
+If you follow Christ the Savior, 
+And break off your bad behavior, 
+And repent and be converted, 
+You may sing his praises too.
+```
+- |   -  |
+-------------|------------|
+Title | Sons of Zion |
+Key |  |
+Titles |  |
+First Line | Come, all ye sons of Zion,  |
+Author | 
+Year | 
+Composer|  |
+Hymnal|  - |
+Tune|  |
+Metrical pattern | |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
+Subjects |  |
+Texts |  |
+Print Texts | 
+Scripture Song |  |
+    
+---
+pagetitle: |
+    014. Free Grace - Millenial Harp
+metadata:
+    description: |
+        Millenial Harp 014. Free Grace. 1. The voice of free grace Cries, escape to the mountain, For Adam’s lost race, Christ has opened a fountain, For sin and transgression And every pollution, The blood it flows freely In streams of salvation. The blood it flows freely  In streams of salvation.
+    keywords:  |
+        Millenial Harp, adventhymnals, advent hymnals, Free Grace, The voice of free grace . 
+    author: Brian Onang'o
+---
+
+## 014. FREE GRACE
+
+```txt
+1. 
+The voice of free grace 
+Cries, escape to the mountain, 
+For Adam’s lost race, 
+Christ has opened a fountain, 
+For sin and transgression 
+And every pollution, 
+The blood it flows freely 
+In streams of salvation. 
+The blood it flows freely  
+In streams of salvation.
+
+[Chorus] Hallelujah to the Lamb, 
+Who hath purchased our pardon, 
+We’ll praise him again, 
+When we pass over Jordan, 
+We’ll praise him again, 
+When we pass over Jordan
+
+2. 
+This fountain so clear, 
+In which all may find pardon, 
+From Jesus’ side flows 
+In plenteous redemption: 
+Tho’ your sins they were raised 
+As high as a mountain, 
+The blood it flows freely 
+From Jesus, the fountain. 
+Hallelujah, etc.
+
+3. 
+O Jesus! ride on, 
+Thy kingdom is glorious, 
+Over sin, death and hell 
+Thou wilt make us victorious, 
+Thy name shall be praised 
+In the great congregation, 
+And saints shall delight 
+Ascribing salvation. 
+Hallelujah, etc.
+
+4. 
+When on Zion we stand, 
+Having gain’d the blest shore, 
+With our harps in our hands 
+We will praise him evermore, 
+We will range the blest fields 
+On the banks of the river, 
+And sing hallelujahs For ever and over. 
+Hallelujah, etc.
+```
+- |   -  |
+-------------|------------|
+Title | Free Grace |
+Key |  |
+Titles |  |
+First Line | The voice of free grace  |
+Author | 
+Year | 
+Composer|  |
+Hymnal|  - |
+Tune|  |
+Metrical pattern | |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
+Subjects |  |
+Texts |  |
+Print Texts | 
+Scripture Song |  |
+    
+---
+pagetitle: |
+    012. The Crucifixion - Millenial Harp
+metadata:
+    description: |
+        Millenial Harp 012. The Crucifixion. 1. As on the cross the Savior hung, And wept, and bled, and died. He poured salvation on a wretch That languished at his side.
+    keywords:  |
+        Millenial Harp, adventhymnals, advent hymnals, The Crucifixion, As on the cross the Savior hung, . 
+    author: Brian Onang'o
+---
+
+## 012. THE CRUCIFIXION
+
+```txt
+1. 
+As on the cross the Savior hung, 
+And wept, and bled, and died. 
+He poured salvation on a wretch 
+That languished at his side.
+
+2. 
+His crimes with inward grief and shame, 
+The penitent confessed; 
+Then turned his dying eyes to Christ, 
+And thus his prayer addressed;
+
+3. 
+‘Jesus thou Son and heir of heaven, 
+‘Thou spotless Lamb of God, 
+‘ I see thee bathed in sweat and tears, 
+‘And weltering in thy blood.
+
+4. 
+‘Yet quickly from these scenes of wo, 
+‘In triumph thou shalt rise, 
+‘Burst through the gloomy shades of death, 
+And shine above the skies.’
+
+5. 
+‘Amid the glories of that world, 
+‘Dear Savior, think on me; 
+‘And in the vict’ries of thy death, 
+‘May I a sharer be.’
+
+6. 
+His prayer the dying Jesus heard 
+And instantly replied, 
+‘To-day thy parting soul shall be 
+‘With me in paradise.’
+```
+- |   -  |
+-------------|------------|
+Title | The Crucifixion |
+Key |  |
+Titles |  |
+First Line | As on the cross the Savior hung,  |
+Author | 
+Year | 
+Composer|  |
+Hymnal|  - |
+Tune|  |
+Metrical pattern | |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
+Subjects |  |
+Texts |  |
+Print Texts | 
+Scripture Song |  |
+    
+---
+pagetitle: |
+    015. Pilgrim’s Farewell - Millenial Harp
+metadata:
+    description: |
+        Millenial Harp 015. Pilgrim’s Farewell. 1. Farewell, farewell, farewell, dear friends, I must be gone, I have no home or stay with you; I’ll take my staff and travel on, Till I a better world do view.
+    keywords:  |
+        Millenial Harp, adventhymnals, advent hymnals, Pilgrim’s Farewell, Farewell, farewell, farewell, dear friends, . 
+    author: Brian Onang'o
+---
+
+## 015. PILGRIM’S FAREWELL
+
+```txt
+1. 
+Farewell, farewell, farewell, dear friends, 
+I must be gone, 
+I have no home or stay with you; 
+I’ll take my staff and travel on, 
+Till I a better world do view.
+
+[Chorus] I’ll march to Canaan’s land, 
+I’ll land on Canaan’s shore, 
+Where pleasures never end,  
+Where troubles come no more. 
+Farewell, farewell, farewell, 
+my loving friends, farewell.
+
+2. 
+Farewell, my friends, time rolls along, 
+Nor waits for mortals’ care or bliss; 
+I leave you here, and travel on, 
+Till I arrive where Jesus is. 
+I’ll march, etc.
+
+2[sic] 
+Farewell, my brethren in the Lord, 
+To you I’m bound in cords of love; 
+Yet we believe his gracious word, 
+That soon we all shall meet above. 
+I’ll march, & c.
+
+4. 
+Farewell, old soldiers of the cross, 
+You’ve struggled long and hard for heaven; 
+You’ve counted all things here but dross, 
+Fight on, the crown will soon be given. 
+I’ll march, & c. 
+Fight on, & c.
+
+5. 
+Farewell, poor careless sinners too, 
+It grieves my heart to leave you here, 
+Eternal vengeance waits for you; 
+O turn, and find salvation near. 
+I’ll march, & c. 
+O turn, & c.
+```
+- |   -  |
+-------------|------------|
+Title | Pilgrim’s Farewell |
+Key |  |
+Titles |  |
+First Line | Farewell, farewell, farewell, dear friends,  |
+Author | 
+Year | 
+Composer|  |
+Hymnal|  - |
+Tune|  |
+Metrical pattern | |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
+Subjects |  |
+Texts |  |
+Print Texts | 
+Scripture Song |  |
+    
+---
+pagetitle: |
+    019. What sound is this - Millenial Harp
+metadata:
+    description: |
+        Millenial Harp 019. What sound is this. From the Wesleyan Harp
+    keywords:  |
+        Millenial Harp, adventhymnals, advent hymnals, What sound is this, undefined. 
+    author: Brian Onang'o
+---
+
+## 019. WHAT SOUND IS THIS
+
+```txt
+From the Wesleyan Harp
+
+1. 
+What sound is this salutes my ear? 
+‘Tis Gabriel’s trump methinks I hear, 
+‘Tis Gabriel’s trump methinks I hear; 
+The expected day has come. 
+Behold the heav’ns, the earth, the sea, 
+Proclaim the year of Jubilee, 
+Proclaim the year of Jubilee, 
+Return, ye exiles, home.
+
+2. 
+Behold the fair Jerusalem, 
+IIluminated by the Lamb, 
+Illuminated by the Lamb, 
+In glory doth appear. 
+Fair Zion rising from the tombs, 
+To meet the Bridegroom, lo! he comes, 
+To meet the Bridegroom, lo! he comes, 
+And hails the festive year.
+
+3. 
+My soul is striving to be there; 
+I long to rise and wing the air, 
+And trace the sacred road. 
+Adieu, adieu, all earthly things; 
+O that I had an angel’s wings, 
+I’d quickly see my God.
+
+4. 
+Fly, lingering moments, fly, O fly, 
+I thirst, I pant, I long to try, 
+Angelic joys to prove! 
+Soon shall I quit this house of clay, 
+Clap my glad wings and soar away, 
+And shout redeeming love.
+```
+- |   -  |
+-------------|------------|
+Title | What sound is this |
+Key |  |
+Titles |  |
+First Line | undefined |
+Author | 
+Year | 
+Composer|  |
+Hymnal|  - |
+Tune|  |
+Metrical pattern | |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
+Subjects |  |
+Texts |  |
+Print Texts | 
+Scripture Song |  |
+    
+---
+pagetitle: |
+    011. Joy in Hope - Millenial Harp
+metadata:
+    description: |
+        Millenial Harp 011. Joy in Hope. 1. Children of the heavenly King, As ye journey sweetly sing; Sing your Savior’s worthy praise, Glorious in his works and ways. We are traveling home to God, In the way the fathers trod; They are happy now and we Soon their happiness shall see.
+    keywords:  |
+        Millenial Harp, adventhymnals, advent hymnals, Joy in Hope, Children of the heavenly King, . 
+    author: Brian Onang'o
+---
+
+## 011. JOY IN HOPE
+
+```txt
+1. 
+Children of the heavenly King, 
+As ye journey sweetly sing; 
+Sing your Savior’s worthy praise, 
+Glorious in his works and ways. 
+We are traveling home to God, 
+In the way the fathers trod; 
+They are happy now and we 
+Soon their happiness shall see.
+
+2. 
+Shout ye little flock, and blest, 
+You near Jesus throne shall rest; 
+There your seats are now prepared, 
+There your kingdom and reward. 
+Fear not, brethren, joyful stand 
+On the borders of your land: 
+Jesus Christ, your Father’s son, 
+Bids you undismay’d go on.
+```
+- |   -  |
+-------------|------------|
+Title | Joy in Hope |
+Key |  |
+Titles |  |
+First Line | Children of the heavenly King,  |
+Author | 
+Year | 
+Composer|  |
+Hymnal|  - |
+Tune|  |
+Metrical pattern | |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
+Subjects |  |
+Texts |  |
+Print Texts | 
+Scripture Song |  |
+    
+---
+pagetitle: |
+    013. Godly sorrow arising from the sufferings of Christ - Millenial Harp
+metadata:
+    description: |
+        Millenial Harp 013. Godly sorrow arising from the sufferings of Christ. 1. Alas! and did my Savior bleed? And did my Jesus die? Would he devote that sacred head For such a worm as I?
+    keywords:  |
+        Millenial Harp, adventhymnals, advent hymnals, Godly sorrow arising from the sufferings of Christ, Alas! and did my Savior bleed? . 
+    author: Brian Onang'o
+---
+
+## 013. GODLY SORROW ARISING FROM THE SUFFERINGS OF CHRIST
+
+```txt
+1. 
+Alas! and did my Savior bleed? 
+And did my Jesus die? 
+Would he devote that sacred head 
+For such a worm as I?
+
+2. 
+Thy body slain, sweet Jesus, thine, 
+And bath’d in its own blood, 
+While all exposed to wrath of men, 
+The glorious Sufferer stood!
+
+3. 
+Was it for crimes that I had done, 
+He groaned upon the tree? 
+Amazing pity! grace unknown! 
+And love beyond degree!
+
+4. 
+Well might the sun in darkness hide, 
+And shut his glories in, 
+When Christ the glorious Savior died, 
+For man, the creature’s sin.
+
+5. 
+Thus might I hide my blushing face, 
+While his dear cross appears, 
+Dissolve my heart in thankfulness, 
+And melt mine eyes in tears.
+
+6. 
+But drops of grief can ne’er repay 
+The debt of love I owe; 
+Here, Lord, I give myself away; 
+‘Tis all that I can do.
+```
+- |   -  |
+-------------|------------|
+Title | Godly sorrow arising from the sufferings of Christ |
+Key |  |
+Titles |  |
+First Line | Alas! and did my Savior bleed?  |
+Author | 
+Year | 
+Composer|  |
+Hymnal|  - |
+Tune|  |
+Metrical pattern | |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
+Subjects |  |
+Texts |  |
+Print Texts | 
+Scripture Song |  |
+    
+---
+pagetitle: |
+    021. The Chariot - Millenial Harp
+metadata:
+    description: |
+        Millenial Harp 021. The Chariot. 1. The chariot! the chariot! its wheels roll in fire, As the Lord cometh down in the pomp of his ire; Lo, self-moving it drives on its pathway of cloud, And the heav’ns with the burden of Godhead are bow’d.
+    keywords:  |
+        Millenial Harp, adventhymnals, advent hymnals, The Chariot, The chariot! the chariot! its wheels roll in fire, . 
+    author: Brian Onang'o
+---
+
+## 021. THE CHARIOT
+
+```txt
+1. 
+The chariot! the chariot! its wheels roll in fire, 
+As the Lord cometh down in the pomp of his ire; 
+Lo, self-moving it drives on its pathway of cloud, 
+And the heav’ns with the burden of Godhead are bow’d.
+
+2. 
+The glory, the glory around him are pour’d, 
+Mighty hosts of the angels that wait on the Lord; 
+And the glorified saints and the martyrs are there, 
+And there all who the palm-wreaths of victory wear.
+
+3. 
+The trumpet! the trumpet! the dead have all heard; 
+Lo, the depths of the stone-covered charnel are stirr’d’ 
+From the sea, from the earth, from the south, from the north, 
+All the vast generations of men are come forth.
+
+4. 
+The judgment! the judgment! the thrones are all set, 
+Where the Lamb and the white vested elders are met, 
+There all flesh is at once in the sight of the Lord, 
+And the doom of eternity hangs on his word.
+
+5. 
+O mercy! O mercy! look down from above; 
+Great Creator, on us, thy sad children, with love; 
+When beneath to their darkness the wicked are driven, 
+May our justified souls find a ransom in heaven.
+```
+- |   -  |
+-------------|------------|
+Title | The Chariot |
+Key |  |
+Titles |  |
+First Line | The chariot! the chariot! its wheels roll in fire,  |
+Author | 
+Year | 
+Composer|  |
+Hymnal|  - |
+Tune|  |
+Metrical pattern | |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
+Subjects |  |
+Texts |  |
+Print Texts | 
+Scripture Song |  |
+    
+---
+pagetitle: |
+    022. Gospel Trumpet - Millenial Harp
+metadata:
+    description: |
+        Millenial Harp 022. Gospel Trumpet. 1. Hark, how the gospel trumpet sounds, Through all the world the echo bounds, And Jesus, with redeeming blood Is bringing sinners home to God, And guides them safely by his word To endless day.
+    keywords:  |
+        Millenial Harp, adventhymnals, advent hymnals, Gospel Trumpet, Hark, how the gospel trumpet sounds, . 
+    author: Brian Onang'o
+---
+
+## 022. GOSPEL TRUMPET
+
+```txt
+1. 
+Hark, how the gospel trumpet sounds, 
+Through all the world the echo bounds, 
+And Jesus, with redeeming blood 
+Is bringing sinners home to God, 
+And guides them safely by his word 
+To endless day.
+
+2. 
+Hail, all victorious conquering Lord, 
+By all the heavenly hosts adored; 
+Who undertook for fallen man, 
+And brought salvation through thy name, 
+That we with thee might live and reign 
+In endless day.
+
+3. 
+Fight on ye conquering saints, fight on, 
+And when the conquest you have won, 
+Then palms of victory you shall bear, 
+And in his kingdom have a share, 
+And crowns of glory you shall wear, 
+In endless day.
+
+4. 
+Thy blood, dear Jesus, once was spilt, 
+To save our souls from sin and guilt; 
+And sinners now may come to God, 
+And find salvation through his word, 
+And sail by faith upon that flood 
+To endless day.
+
+5. 
+There we shall in sweet chorus join, 
+And saints and angels all combine, 
+To sing of his redeeming love, 
+When rolling years shall cease to move; 
+And that shall be the theme above, 
+In endless day.
+```
+- |   -  |
+-------------|------------|
+Title | Gospel Trumpet |
+Key |  |
+Titles |  |
+First Line | Hark, how the gospel trumpet sounds,  |
+Author | 
+Year | 
+Composer|  |
+Hymnal|  - |
+Tune|  |
+Metrical pattern | |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
+Subjects |  |
+Texts |  |
+Print Texts | 
+Scripture Song |  |
+    
+---
+pagetitle: |
+    030. Lord! remember me - Millenial Harp
+metadata:
+    description: |
+        Millenial Harp 030. Lord! remember me. 1. Jesus! thou art the sinner’s Friend, As such I look to thee ....... Now in the bowels of thy love, Oh Lord! remember me.
+    keywords:  |
+        Millenial Harp, adventhymnals, advent hymnals, Lord! remember me, Jesus! thou art the sinner’s Friend, . 
+    author: Brian Onang'o
+---
+
+## 030. LORD! REMEMBER ME
+
+```txt
+1. 
+Jesus! thou art the sinner’s Friend, 
+As such I look to thee ....... 
+Now in the bowels of thy love, 
+Oh Lord! remember me.
+
+[Chorus] 
+Oh, Lord! remember me ..... 
+Oh, Lord, remember me ..... 
+Now in the bowels of thy love, 
+Oh Lord! remember me.
+
+2. 
+Remember thy pure word of grace, 
+Remember Calvary; 
+Remember all thy dying groans, 
+And then remember me.
+
+3. 
+Thou wondrous Advocate with God! 
+I yield myself to thee 
+While thou art sitting on thy throne, 
+Oh, Lord! remember me.
+
+4. 
+I own I’m guilty, own I’m vile, 
+Yet thy salvation’s free: 
+Then, in thy all-abounding grace, 
+Oh, Lord! remember me.
+
+5. 
+Howe’er forsaken or distressed, 
+Howe’er oppressed I be, 
+Howe’er afflicted here on earth, 
+Do thou remember me.
+
+6. 
+And when I close my eyes in death, 
+And creature helps all flee, 
+Then, oh my great Redeemer, God! 
+I pray, remember me.
+```
+- |   -  |
+-------------|------------|
+Title | Lord! remember me |
+Key |  |
+Titles |  |
+First Line | Jesus! thou art the sinner’s Friend,  |
+Author | 
+Year | 
+Composer|  |
+Hymnal|  - |
+Tune|  |
+Metrical pattern | |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
+Subjects |  |
+Texts |  |
+Print Texts | 
+Scripture Song |  |
+    
+---
+pagetitle: |
+    023. Judgment - Millenial Harp
+metadata:
+    description: |
+        Millenial Harp 023. Judgment. 1. O there will be mourning, mourning, mourning, mourning, O there will be mourning at the judgment seat of Christ. Parents and children there will part, Parents and children there will part, Parents and children there will part, Will part to meet no more.
+    keywords:  |
+        Millenial Harp, adventhymnals, advent hymnals, Judgment, O there will be mourning, mourning, mourning, mourning, . 
+    author: Brian Onang'o
+---
+
+## 023. JUDGMENT
+
+```txt
+1. 
+O there will be mourning, mourning, mourning, mourning, 
+O there will be mourning at the judgment seat of Christ. 
+Parents and children there will part, 
+Parents and children there will part, 
+Parents and children there will part, 
+Will part to meet no more.
+
+2. 
+O there will be mourning, mourning, mourning, mourning, 
+O there will be mourning at the judgment seat of Christ. 
+Wives and husbands there will part, 
+Wives and husbands there will part,  
+Wives and husbands there will part, 
+Will part to meet no more.
+
+3. 
+O there will be mourning, mourning, etc. 
+Brothers and sisters there will part, etc.
+
+4. 
+O there will be mourning, mourning, etc. 
+Friends and neighbors there will part, etc
+
+5. 
+O there will be mourning, mourning, etc. 
+Pastors and people there will part, etc.
+
+6. 
+O there will be mourning, mourning, etc. 
+Devils and sinners there will meet, 
+Will meet to part no more.
+
+7. 
+O there will be shouting, shouting, etc. 
+Saints and angels there will meet, 
+Will meet to part no more.
+```
+- |   -  |
+-------------|------------|
+Title | Judgment |
+Key |  |
+Titles |  |
+First Line | O there will be mourning, mourning, mourning, mourning,  |
+Author | 
+Year | 
+Composer|  |
+Hymnal|  - |
+Tune|  |
+Metrical pattern | |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
+Subjects |  |
+Texts |  |
+Print Texts | 
+Scripture Song |  |
+    
+---
+pagetitle: |
+    028. Star of Bethlehem - Millenial Harp
+metadata:
+    description: |
+        Millenial Harp 028. Star of Bethlehem. 1. When marshall’d on the nightly plain, The glittering hosts bestud the sky, One star alone, of all the train, Can fix the sinner’s wandering eye: Hark! Hark! to God the chorus breaks, From ev’ry host, from ev’ry gem; But one alone, the Savior speaks, It is the star of Bethlehem.
+    keywords:  |
+        Millenial Harp, adventhymnals, advent hymnals, Star of Bethlehem, When marshall’d on the nightly plain, . 
+    author: Brian Onang'o
+---
+
+## 028. STAR OF BETHLEHEM
+
+```txt
+1. 
+When marshall’d on the nightly plain, 
+The glittering hosts bestud the sky, 
+One star alone, of all the train, 
+Can fix the sinner’s wandering eye: 
+Hark! Hark! to God the chorus breaks, 
+From ev’ry host, from ev’ry gem; 
+But one alone, the Savior speaks, 
+It is the star of Bethlehem.
+
+2. 
+Once on the raging seas I rode, 
+The storm was loud, the night was dark, 
+The ocean yawn’d, and rudely blow’d 
+The wind that toss’d my foundering bark. 
+Deep horror then my vitals froze, 
+Death struck-I ceased the tide to stem: 
+When suddenly a star arose, 
+It was the Star of Bethlehem.
+
+3. 
+It was my guide, my light, my all, 
+It bade my dark foreboding cease; 
+And thro’ the storm and danger’s thrall, 
+It led me to the port of peace. 
+Now safely moor’d-my perils o’er, 
+I’ll sing first in night’s diadem, 
+Forever and forevermore, 
+The Star-the Star of Bethlehem.
+```
+- |   -  |
+-------------|------------|
+Title | Star of Bethlehem |
+Key |  |
+Titles |  |
+First Line | When marshall’d on the nightly plain,  |
+Author | 
+Year | 
+Composer|  |
+Hymnal|  - |
+Tune|  |
+Metrical pattern | |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
+Subjects |  |
+Texts |  |
+Print Texts | 
+Scripture Song |  |
+    
+---
+pagetitle: |
+    027. Saint’s Sweet Home - Millenial Harp
+metadata:
+    description: |
+        Millenial Harp 027. Saint’s Sweet Home. 1. Mid scenes of confusion and creature complaints, How sweet to my soul is communion with saints; To find at the banquet of mercy there’s room, And feel in the presence of Jesus at home.
+    keywords:  |
+        Millenial Harp, adventhymnals, advent hymnals, Saint’s Sweet Home, Mid scenes of confusion and creature complaints, . 
+    author: Brian Onang'o
+---
+
+## 027. SAINT’S SWEET HOME
+
+```txt
+1. 
+Mid scenes of confusion and creature complaints, 
+How sweet to my soul is communion with saints; 
+To find at the banquet of mercy there’s room, 
+And feel in the presence of Jesus at home.
+
+CHORUS. 
+Home, home, sweet, sweet home, 
+Prepare me, dear Savior, to glory, my home.
+
+2. 
+Sweet bonds that unite all the children of peace! 
+And thrice precious Jesus whose love cannot cease, 
+Though oft from thy presence in sadness I roam, 
+I long to behold thee, in glory at home.
+
+Home, home, sweet, sweet home, 
+Prepare me, dear Savior, to glory, my home.
+
+3. 
+I sigh from this body of sin to be free, 
+Which hinders my joy and communion with thee; 
+Tho’ now my temptations like billows may foam, 
+All, all will be peace, when I’m with thee at home.
+
+
+
+4. 
+While here in the valley of conflict I stay, 
+O give me submission and strength as my day; 
+In all my afflictions to thee would I come, 
+Rejoicing in hope of my glorious home.
+
+
+
+5. 
+Whate’er thou deniest, O give me thy grace, 
+The Spirit’s sure witness, and smiles of thy face; 
+Indulge me with patience to wait at thy throne, 
+And find even now a sweet foretaste of home.
+
+
+
+6. 
+I long, dearest Lord, in thy beauties to shine, 
+No more as an exile, in sorrow to pine, 
+And in thy dear image, arise from the tomb, 
+With glorified millions to praise thee, at Home.
+
+Home, home, sweet, sweet home, 
+Prepare me, dear Savior, to glory, my home.
+```
+- |   -  |
+-------------|------------|
+Title | Saint’s Sweet Home |
+Key |  |
+Titles |  |
+First Line | Mid scenes of confusion and creature complaints,  |
+Author | 
+Year | 
+Composer|  |
+Hymnal|  - |
+Tune|  |
+Metrical pattern | |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
+Subjects |  |
+Texts |  |
+Print Texts | 
+Scripture Song |  |
+    
+---
+pagetitle: |
+    024. Resolve - Millenial Harp
+metadata:
+    description: |
+        Millenial Harp 024. Resolve. 1. I’ll try to prove faithful, I’ll try to prove faithful, I’ll try to prove faithful, faithful, faithful, Till we all shall meet above.
+    keywords:  |
+        Millenial Harp, adventhymnals, advent hymnals, Resolve, I’ll try to prove faithful, . 
+    author: Brian Onang'o
+---
+
+## 024. RESOLVE
+
+```txt
+1. 
+I’ll try to prove faithful, 
+I’ll try to prove faithful, 
+I’ll try to prove faithful, faithful, faithful, 
+Till we all shall meet above.
+
+1. 
+I’ll try to prove faithful, etc.
+
+2. 
+O, let us prove faithful, etc.
+
+3. 
+We mean to be faithful, etc.
+
+4. 
+There’ll be no more sinning, etc. 
+When we all shall meet above.
+
+5. 
+There’ll be no more sorrow, etc. 
+When we all shall meet above.
+
+6. 
+Then we shall see Jesus, etc. 
+When we all shall meet above.
+
+7. 
+There we shall sing praises, etc. 
+When we all shall meet above.
+```
+- |   -  |
+-------------|------------|
+Title | Resolve |
+Key |  |
+Titles |  |
+First Line | I’ll try to prove faithful,  |
+Author | 
+Year | 
+Composer|  |
+Hymnal|  - |
+Tune|  |
+Metrical pattern | |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
+Subjects |  |
+Texts |  |
+Print Texts | 
+Scripture Song |  |
+    
+---
+pagetitle: |
+    026. The Harvest Home - Millenial Harp
+metadata:
+    description: |
+        Millenial Harp 026. The Harvest Home. 1. Though in the outward church below, The wheat and tares together grow; Jesus ere long will weed the crop, And pluck the tares in anger up.
+    keywords:  |
+        Millenial Harp, adventhymnals, advent hymnals, The Harvest Home, Though in the outward church below, . 
+    author: Brian Onang'o
+---
+
+## 026. THE HARVEST HOME
+
+```txt
+1. 
+Though in the outward church below, 
+The wheat and tares together grow; 
+Jesus ere long will weed the crop, 
+And pluck the tares in anger up.
+
+CHORUS. 
+For soon the reaping time will come, 
+And angels shout the harvest home.
+
+2. 
+Will it relieve their horrors there, 
+To recollect their stations here; 
+How much they heard, how much they knew, 
+How much among the wheat they grew?
+
+
+
+3. 
+No! this will aggravate their case, 
+They perish’d under means of grace. 
+To them the word of life and faith 
+Became an instrument of death.
+
+
+
+4. 
+We seem alike when thus we meet, 
+Strangers might think we all were wheat, 
+But to the Lord’s all-searching eyes, 
+Each heart appears without disguise.
+
+
+
+5. 
+The tares are spared for various ends, 
+Some for the sake of praying friends: 
+Others the Lord, against their will, 
+Employs his counsels to fulfil.
+
+
+
+6. 
+But though they grow so tall and strong, 
+His plan will not require them long; 
+In harvest, when he saves his own, 
+The tares shall into hell be thrown.
+
+
+
+7. 
+Oh! awful thought, and is it so? 
+Must all mankind the harvest know? 
+Is every man a wheat or tare? 
+Me, for that harvest, Lord, prepare.
+
+[4]
+```
+- |   -  |
+-------------|------------|
+Title | The Harvest Home |
+Key |  |
+Titles |  |
+First Line | Though in the outward church below,  |
+Author | 
+Year | 
+Composer|  |
+Hymnal|  - |
+Tune|  |
+Metrical pattern | |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
+Subjects |  |
+Texts |  |
+Print Texts | 
+Scripture Song |  |
+    
+---
+pagetitle: |
+    025. I would not live alway - Millenial Harp
+metadata:
+    description: |
+        Millenial Harp 025. I would not live alway. 1. I would not live alway: I ask not to stay, Where storm after storm rises o’er the dark way The few lurid mornings that dawn on us here, ... Are enough for life’s woes, full enough for its cheer.
+    keywords:  |
+        Millenial Harp, adventhymnals, advent hymnals, I would not live alway, I would not live alway: I ask not to stay, . 
+    author: Brian Onang'o
+---
+
+## 025. I WOULD NOT LIVE ALWAY
+
+```txt
+1. 
+I would not live alway: I ask not to stay, 
+Where storm after storm rises o’er the dark way 
+The few lurid mornings that dawn on us here, ... 
+Are enough for life’s woes, full enough for its cheer.
+
+2. 
+I would not live alway: No-welcome the tomb, 
+Sice[sic] Jesus has lain there, I dread not its gloom 
+There, sweet be my rest, till he bid me arise, .... 
+To hail him in triumph descending the skies.
+
+3. 
+Who, who would live alway, away from his God? 
+Away from yon heaven, that blissful abode, 
+Where rivers of pleasure flow o’er the bright plains, 
+And the noon-tide of glory eternally reigns;
+
+4. 
+Where saints of all ages in harmony meet, 
+Their Savior and brethren, transported to greet? 
+Where anthems of rapture unceasingly roll. 
+And the smile of the Lord is the feast of the soul.
+```
+- |   -  |
+-------------|------------|
+Title | I would not live alway |
+Key |  |
+Titles |  |
+First Line | I would not live alway: I ask not to stay,  |
+Author | 
+Year | 
+Composer|  |
+Hymnal|  - |
+Tune|  |
+Metrical pattern | |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
+Subjects |  |
+Texts |  |
+Print Texts | 
+Scripture Song |  |
+    
+---
+pagetitle: |
+    029. The Christian and the Cross - Millenial Harp
+metadata:
+    description: |
+        Millenial Harp 029. The Christian and the Cross. 2[sic] I’m not, ashamed to own my Lord, Who lives by angels now adored; That Jesus who once died for me, Who bore my sins in agony.
+    keywords:  |
+        Millenial Harp, adventhymnals, advent hymnals, The Christian and the Cross, I’m not, ashamed to own my Lord, . 
+    author: Brian Onang'o
+---
+
+## 029. THE CHRISTIAN AND THE CROSS
+
+```txt
+2[sic] 
+I’m not, ashamed to own my Lord, 
+Who lives by angels now adored; 
+That Jesus who once died for me, 
+Who bore my sins in agony.
+
+2. 
+I’m not ashamed to own his laws, 
+Nor to defend his noble cause, 
+The way he’s gone, is lined with blood, 
+O may I tread the steps he trod.
+
+3. 
+I’m not ashamed his name to bear, 
+With those who his disciples were: 
+Christian, sweet name! its worth I view, 
+O may I wear the nature too.
+
+4. 
+I’m not ashamed to bear my cross, 
+For which I count all things but dross; 
+Whate’er I’m bid to do or say, 
+When Christ commands, I will obey.
+
+5. 
+I’m not ashamed to be despised, 
+By those who ne’er religion prized: 
+Nor will I prove to Christ untrue, 
+For all that men can say or do.
+
+6. 
+This world’s vain honors will I shun, 
+The narrow way to life I’ll run; 
+That this at last my boast may be, 
+My Savior’s not ashamed of me.
+```
+- |   -  |
+-------------|------------|
+Title | The Christian and the Cross |
+Key |  |
+Titles |  |
+First Line | I’m not, ashamed to own my Lord,  |
+Author | 
+Year | 
+Composer|  |
+Hymnal|  - |
+Tune|  |
+Metrical pattern | |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
+Subjects |  |
+Texts |  |
+Print Texts | 
+Scripture Song |  |
+    
+---
+pagetitle: |
+    006. Human Frailty - Millenial Harp
+metadata:
+    description: |
+        Millenial Harp 006. Human Frailty. 1. This world is all a fleeting show, For man’s probation given; The smiles of joy, the tears of wo, Deceitful shine, deceitful flow; There’s nothing true as heaven.
+    keywords:  |
+        Millenial Harp, adventhymnals, advent hymnals, Human Frailty, This world is all a fleeting show, . 
+    author: Brian Onang'o
+---
+
+## 006. HUMAN FRAILTY
+
+```txt
+1. 
+This world is all a fleeting show, 
+For man’s probation given; 
+The smiles of joy, the tears of wo, 
+Deceitful shine, deceitful flow; 
+There’s nothing true as heaven.
+
+2. 
+Poor wanderers of a stormy day, 
+From wave to wave we’er driven; 
+And fancy’s flash, and reason’s ray 
+Serve but to light us on the way; 
+There’s nothing bright as heaven.
+
+3. 
+And where’s the hand held out to cheer 
+The heart with anguish riven? 
+For sorrow’s sigh, and trouble’s tear, 
+Have never found a refuge here; 
+There’s nothing kind as heaven.
+
+4. 
+In vain do mortals sigh for bliss, 
+Without their sins forgiven: 
+True pleasure, everlasting peace, 
+Are only found in God’s free grace; 
+There’s nothing good as heaven.
+
+5. 
+From those who walk in wisdom’s way, 
+Corroding fears are driven; 
+They’re wash’d in Christ’s atoning blood, 
+Enjoy communion with their God, 
+And find their way to heaven.
+```
+- |   -  |
+-------------|------------|
+Title | Human Frailty |
+Key |  |
+Titles |  |
+First Line | This world is all a fleeting show,  |
+Author | 
+Year | 
+Composer|  |
+Hymnal|  - |
+Tune|  |
+Metrical pattern | |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
+Subjects |  |
+Texts |  |
+Print Texts | 
+Scripture Song |  |
+    
+---
+pagetitle: |
+    010. Heavenly Home - Millenial Harp
+metadata:
+    description: |
+        Millenial Harp 010. Heavenly Home. 1. Brethren, while we sojourn here, Fight we must, but should not fear; Foes we have, but we’ve a Friend, One that loves us to the end; Forward, then, with courage go, Long we shall not dwell below; Soon the joyful news will come, “Child, your Father calls, Come home.”
+    keywords:  |
+        Millenial Harp, adventhymnals, advent hymnals, Heavenly Home, Brethren, while we sojourn here, . 
+    author: Brian Onang'o
+---
+
+## 010. HEAVENLY HOME
+
+```txt
+1. 
+Brethren, while we sojourn here, 
+Fight we must, but should not fear; 
+Foes we have, but we’ve a Friend, 
+One that loves us to the end; 
+Forward, then, with courage go, 
+Long we shall not dwell below; 
+Soon the joyful news will come, 
+“Child, your Father calls, Come home.”
+
+2. 
+In the way, a thousand snares 
+Lie to take us unawares; 
+Satan, with malicious art, 
+Watches each unguarded heart: 
+But from Satan’s malice free, 
+Saints shall soon in glory be; 
+Soon the joyful news will come, 
+“Child, your Father calls, Come home.”
+
+3. 
+But of all the foes we meet, 
+None so oft misled our feet, 
+None betray us into sin, 
+Like the foes that dwell within: 
+Yet let nothing spoil your peace, 
+Christ shall also conquer these; 
+ the joyful news will come, 
+“Child, your father calls, Come home.”
+```
+- |   -  |
+-------------|------------|
+Title | Heavenly Home |
+Key |  |
+Titles |  |
+First Line | Brethren, while we sojourn here,  |
+Author | 
+Year | 
+Composer|  |
+Hymnal|  - |
+Tune|  |
+Metrical pattern | |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
+Subjects |  |
+Texts |  |
+Print Texts | 
+Scripture Song |  |
+    
+---
+pagetitle: |
+    007. Eden of Love - Millenial Harp
+metadata:
+    description: |
+        Millenial Harp 007. Eden of Love. 1. How sweet to reflect on those joys that await me, In yon blissful region, the haven of rest, Where glorified spirits with welcome shall greet me, And lead me to mansions prepared for the blest; Encircled in light, and with glory enshrouded, My happiness perfect, my mind’s eye unclouded,  I’ll bathe in the ocean of pleasure unbounded, And range with delight thro’ the Eden of Love.
+    keywords:  |
+        Millenial Harp, adventhymnals, advent hymnals, Eden of Love, How sweet to reflect on those joys that await me, . 
+    author: Brian Onang'o
+---
+
+## 007. EDEN OF LOVE
+
+```txt
+1. 
+How sweet to reflect on those joys that await me, 
+In yon blissful region, the haven of rest, 
+Where glorified spirits with welcome shall greet me, 
+And lead me to mansions prepared for the blest; 
+Encircled in light, and with glory enshrouded, 
+My happiness perfect, my mind’s eye unclouded,  
+I’ll bathe in the ocean of pleasure unbounded, 
+And range with delight thro’ the Eden of Love.
+
+2. 
+While angelic legions, with harps tuned celestial, 
+Harmoniously join in the concert of praise, 
+The saints, as they flock from the regions terrestrial, 
+In loud hallelujahs their voices will raise: 
+Then songs to the Lamb shall re-echo thro’ heaven, 
+My soul will respond, To Immanuel be given 
+All glory, all honor, all might and dominion, 
+Who brought us thro’ grace to the Eden of Love.
+
+3. 
+Then hail, blessed state! hail, ye songsters of glory! 
+Ye harpers of bliss, soon I’ll meet you above! 
+And join your full choir in rehearsing the story, 
+“Salvation from sorrow, through Jesus’s love:” 
+Though ‘prisoned in earth, yet by anticipation, 
+Already my soul feels a sweet prelibation 
+Of joys that await me, when freed from probation: 
+My heart’s now in Heaven, the Eden of Love.
+```
+- |   -  |
+-------------|------------|
+Title | Eden of Love |
+Key |  |
+Titles |  |
+First Line | How sweet to reflect on those joys that await me,  |
+Author | 
+Year | 
+Composer|  |
+Hymnal|  - |
+Tune|  |
+Metrical pattern | |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
+Subjects |  |
+Texts |  |
+Print Texts | 
+Scripture Song |  |
+    
+---
+pagetitle: |
+    005. Heavenly Rest Andante. - Millenial Harp
+metadata:
+    description: |
+        Millenial Harp 005. Heavenly Rest Andante.. 1. There in an hour of peaceful rest, To mourning wander’rs given; There is a joy for souls distress’d, A balm for every wounded breast, ‘Tis found alone in heaven.
+    keywords:  |
+        Millenial Harp, adventhymnals, advent hymnals, Heavenly Rest Andante., There in an hour of peaceful rest, . 
+    author: Brian Onang'o
+---
+
+## 005. HEAVENLY REST ANDANTE.
+
+```txt
+1. 
+There in an hour of peaceful rest, 
+To mourning wander’rs given; 
+There is a joy for souls distress’d, 
+A balm for every wounded breast, 
+‘Tis found alone in heaven.
+
+2. 
+There is a soft, a downy bed, 
+As fair as breath of even; 
+A couch for weary mortals spread, 
+Where they may rest the aching head, 
+And find repose in heaven.
+
+3. 
+There is a home for weary souls, 
+By sin and sorrow driven; 
+When tossed on life’s tempestuous shoals, 
+Where storms arise and ocean rolls 
+And all is drear-but heaven.
+
+4. 
+There faith lifts up the tearless eye, 
+To brighter prospects given; 
+It views the tempest passing by, 
+Sees evening shadows quickly fly, 
+And all serene-in heaven.
+
+5. 
+There fragrant flowers immortal bloom, 
+And joys supreme are given; 
+There rays divine disperse the gloom:— 
+Beyond the dark, the narrow tomb 
+Appears the dawn of heaven.
+```
+- |   -  |
+-------------|------------|
+Title | Heavenly Rest Andante. |
+Key |  |
+Titles |  |
+First Line | There in an hour of peaceful rest,  |
+Author | 
+Year | 
+Composer|  |
+Hymnal|  - |
+Tune|  |
+Metrical pattern | |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
+Subjects |  |
+Texts |  |
+Print Texts | 
+Scripture Song |  |
+    
+---
+pagetitle: |
+    008. Desire to see Jesus - Millenial Harp
+metadata:
+    description: |
+        Millenial Harp 008. Desire to see Jesus. 1. From every earthly pleasure, From every transient joy, From every mortal treasure, That soon will fade and die; No longer these desiring, Upwards our wishes tend, To nobler bliss aspiring, And joys that never end.
+    keywords:  |
+        Millenial Harp, adventhymnals, advent hymnals, Desire to see Jesus, From every earthly pleasure, . 
+    author: Brian Onang'o
+---
+
+## 008. DESIRE TO SEE JESUS
+
+```txt
+1. 
+From every earthly pleasure, 
+From every transient joy, 
+From every mortal treasure, 
+That soon will fade and die; 
+No longer these desiring, 
+Upwards our wishes tend, 
+To nobler bliss aspiring, 
+And joys that never end.
+
+2. 
+From every piercing sorrow, 
+That leaves our breast to-day 
+Or threatens us to-morrow, 
+Hope turns our eyes away, 
+On wings of faith ascending, 
+We see the land of light, 
+And feel our sorrows ending, 
+In infinite delight.
+
+3. 
+‘Tis true, we are but strangers, 
+We sojourn here below; 
+And countless snares and dangers 
+Surround the path we go; 
+Though painful and distressing, 
+Yet there’s a rest above; 
+And onward still we’re pressing, 
+To reach that land of love.
+```
+- |   -  |
+-------------|------------|
+Title | Desire to see Jesus |
+Key |  |
+Titles |  |
+First Line | From every earthly pleasure,  |
+Author | 
+Year | 
+Composer|  |
+Hymnal|  - |
+Tune|  |
+Metrical pattern | |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
+Subjects |  |
+Texts |  |
+Print Texts | 
+Scripture Song |  |
+    
+---
+pagetitle: |
+    003. Prayer of the Church - Millenial Harp
+metadata:
+    description: |
+        Millenial Harp 003. Prayer of the Church. 1. How long, O Lord our Savior, Wilt thou remain away? Our hearts are growing weary Of thy so long delay. O when shall come the moment When, brighter far than morn, The sunshine of thy glory Shall on thy people dawn?
+    keywords:  |
+        Millenial Harp, adventhymnals, advent hymnals, Prayer of the Church, How long, O Lord our Savior, . 
+    author: Brian Onang'o
+---
+
+## 003. PRAYER OF THE CHURCH
+
+```txt
+1. 
+How long, O Lord our Savior, 
+Wilt thou remain away? 
+Our hearts are growing weary 
+Of thy so long delay. 
+O when shall come the moment 
+When, brighter far than morn, 
+The sunshine of thy glory 
+Shall on thy people dawn?
+
+2. 
+How long, O gracious Master, 
+Wilt thou thy household leave? 
+So long hast thou now tarried, 
+Few thy return believe, 
+Immers’d in sloth and folly, 
+Thy servants Lord, we see; 
+And few of us stand ready 
+With joy to welcome thee.
+
+3. 
+How long, O heav’nly Bridegroom, 
+How long wilt thou delay? 
+And yet how few are grieving 
+That thou dost absent stay! 
+Thy very Bride her portion 
+And calling hath forgot, 
+And seeks for ease and glory 
+Where thou, her Lord, art not.
+
+4. 
+O wake thy slumbering virgins; 
+Send forth the solemn cry, 
+Let alt thy saints repeat it, 
+“The Bridegroom draweth nigh!” 
+May all our lamps be burning, 
+Our loins well girded be, 
+Each longing heart preparing 
+With joy thy face to see.
+```
+- |   -  |
+-------------|------------|
+Title | Prayer of the Church |
+Key |  |
+Titles |  |
+First Line | How long, O Lord our Savior,  |
+Author | 
+Year | 
+Composer|  |
+Hymnal|  - |
+Tune|  |
+Metrical pattern | |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
+Subjects |  |
+Texts |  |
+Print Texts | 
+Scripture Song |  |
+    
+---
+pagetitle: |
+    004. Hymn for 1843 - Millenial Harp
+metadata:
+    description: |
+        Millenial Harp 004. Hymn for 1843. 1. The clouds at length are breaking; The dawn will soon appear, And “Signs” there’s no mistaking, Proclaim Messiah near. Awake, awake from sleeping, Attend the “midnight cry,” Ye saints, refrain from weeping, Your Great Deliverer’s nigh
+    keywords:  |
+        Millenial Harp, adventhymnals, advent hymnals, Hymn for 1843, The clouds at length are breaking; . 
+    author: Brian Onang'o
+---
+
+## 004. HYMN FOR 1843
+
+```txt
+1. 
+The clouds at length are breaking; 
+The dawn will soon appear, 
+And “Signs” there’s no mistaking, 
+Proclaim Messiah near. 
+Awake, awake from sleeping, 
+Attend the “midnight cry,” 
+Ye saints, refrain from weeping, 
+Your Great Deliverer’s nigh
+
+2. 
+The morning light is beaming; 
+The “day-star” shines on high, 
+Christ’s Heralds are proclaiming 
+His coming in the sky; 
+And earth’s eventful story 
+A few short months will tell, 
+The righteous rise to glory; 
+The wicked sink to hell.
+
+3. 
+If earth and all her treasure, 
+Are doom’d to fire and flame; 
+Her Royal pomp, and pleasure 
+Are but an  
+Her Kings-her Crowns-her glory 
+Her Armies-Fleets-and pride, 
+May bubble forth her story 
+While floating down the tide.
+
+4. 
+The Ocean, Oh! the ocean, 
+To which  grandeurs tend 
+Now foams in dreadful motion, 
+Her boast and pomp to end. 
+See, see, the flames ascending, 
+The seas, themselves explode; 
+The clouds,—the skies, are rending 
+With cries of—‘God’—‘Oh! God’!!
+
+5. 
+Oh! hear the sad petition, 
+“Rocks crush us into dust;” 
+Oh! pity our condition- 
+Or  we surely must 
+We thought that we were wiser 
+Than  and all 
+Yet Sinner—Sceptic—miser— 
+Must suffer once for all.
+
+6. 
+Ye mortals take the warning, 
+Ten thousand calls invite; 
+Should you neglect the morning 
+Then comes the  
+Now mercy’s hand extended. 
+The vilest wretch would save; 
+But Oh! if  be ended 
+You’re lost beyond the grave.
+
+7. 
+Great Author of compassion 
+Redeemer-Saviour-friend- 
+Oh! send to every nation 
+The knowledge of its end; 
+Fly! fly on wings of morning, 
+Ye who the truth can tell, 
+And sound the awful warning, 
+To rescue souls from 
+```
+- |   -  |
+-------------|------------|
+Title | Hymn for 1843 |
+Key |  |
+Titles |  |
+First Line | The clouds at length are breaking;  |
+Author | 
+Year | 
+Composer|  |
+Hymnal|  - |
+Tune|  |
+Metrical pattern | |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
+Subjects |  |
+Texts |  |
+Print Texts | 
+Scripture Song |  |
+    
+---
+pagetitle: |
+    001. How long, O Lord - Millenial Harp
+metadata:
+    description: |
+        Millenial Harp 001. How long, O Lord. 1. “How long, O Lord, how long?”— It was in heav’n That prayerful voice was heard, From souls forgiven.
+    keywords:  |
+        Millenial Harp, adventhymnals, advent hymnals, How long, O Lord, “How long, O Lord, how long?”— . 
+    author: Brian Onang'o
+---
+
+## 001. HOW LONG, O LORD
+
+```txt
+1. 
+“How long, O Lord, how long?”— 
+It was in heav’n 
+That prayerful voice was heard, 
+From souls forgiven.
+
+2. 
+Was heaven not enough? 
+Happy, secure, 
+Robed in eternal bliss 
+Would they have more.
+
+3. 
+Jesus! they would have more- 
+Even in bliss, 
+The souls expectant wait 
+More happiness.
+
+4. 
+They wait, even in heaven, 
+Impatiently, 
+To see this troubled world 
+At peace with thee.
+
+5. 
+They would behold their King, 
+Once crucified, 
+Mistrusted still, disowned, 
+And still denied,—
+
+6. 
+Jesus! they would behold 
+Thy work complete, 
+And misery and sin 
+Beneath thy feet.
+
+7. 
+And may not we, too, join 
+In heaven’s song? 
+Should we alone not ask, 
+“How long, how long?”
+```
+- |   -  |
+-------------|------------|
+Title | How long, O Lord |
+Key |  |
+Titles |  |
+First Line | “How long, O Lord, how long?”—  |
+Author | 
+Year | 
+Composer|  |
+Hymnal|  - |
+Tune|  |
+Metrical pattern | |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
+Subjects |  |
+Texts |  |
+Print Texts | 
+Scripture Song |  |
+    
+---
+pagetitle: |
+    002. New Jerusalem. C. M - Millenial Harp
+metadata:
+    description: |
+        Millenial Harp 002. New Jerusalem. C. M. 1. Lo, what a glorious sight appears, To our believing eyes; ‘The earth and seas are passed away, And the old rolling skies! And the old rolling skies! And the old rolling skies! The earth and seas are passed away, And the old rolling skies!
+    keywords:  |
+        Millenial Harp, adventhymnals, advent hymnals, New Jerusalem. C. M, Lo, what a glorious sight appears, . 
+    author: Brian Onang'o
+---
+
+## 002. NEW JERUSALEM. C. M
+
+```txt
+1. 
+Lo, what a glorious sight appears, 
+To our believing eyes; 
+‘The earth and seas are passed away, 
+And the old rolling skies! 
+And the old rolling skies! 
+And the old rolling skies! 
+The earth and seas are passed away, 
+And the old rolling skies!
+
+[Chorus] O that will be joyful, joyful, joyful, 
+O that will be joyful, 
+When we meet to part no more, 
+When we meet to part no more, 
+On Canaan’s happy shore. 
+‘Tis there we’ll meet at Jesus’ feet, 
+When we meet to part no more.
+
+2. 
+From the third heav’n, where God resides, 
+That holy, happy place; 
+The New Jerusalem comes down, 
+Adorned with shining grace. 
+Adorn’d with shining grace, 
+Adorned with, etc. 
+The new Jerusalem comes down, 
+Adorn’d with shining grace.
+
+3. 
+Attending angels shout for joy, 
+And the bright armies sing, 
+“Mortals, behold the sacred seat 
+Of your descending King! 
+Of your descending King! 
+Of your, etc. 
+Mortals behold the sacred sear 
+Of your descending King!
+
+4. 
+“The God of glory down to men 
+Removes his blest abode; 
+Men are the objects of his love, 
+And he their gracious God. 
+
+```
+- |   -  |
+-------------|------------|
+Title | New Jerusalem. C. M |
+Key |  |
+Titles |  |
+First Line | Lo, what a glorious sight appears,  |
+Author | 
+Year | 
+Composer|  |
+Hymnal|  - |
+Tune|  |
+Metrical pattern | |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
+Subjects |  |
+Texts |  |
+Print Texts | 
+Scripture Song |  |
+    
+---
+pagetitle: |
+    009. The Great Physician - Millenial Harp
+metadata:
+    description: |
+        Millenial Harp 009. The Great Physician. 1. How lost was my condition, Till Jesus made me whole; There is but one Physician Can cure a sin-sick soul; Next door to death he found me, And snatch’d me from the grave, To tell to all around me His wondrous power to save.
+    keywords:  |
+        Millenial Harp, adventhymnals, advent hymnals, The Great Physician, How lost was my condition, . 
+    author: Brian Onang'o
+---
+
+## 009. THE GREAT PHYSICIAN
+
+```txt
+1. 
+How lost was my condition, 
+Till Jesus made me whole; 
+There is but one Physician 
+Can cure a sin-sick soul; 
+Next door to death he found me, 
+And snatch’d me from the grave, 
+To tell to all around me 
+His wondrous power to save.
+
+2. 
+The worst of all diseases 
+Is light, compared with sin; 
+On every part it seizes, 
+But rages most within; 
+‘Tis palsy, plague, and fever, 
+And madness all combined; 
+And none but a believer, 
+The least relief can find.
+
+3. 
+From men great skill professing, 
+I sought a cure to gain; 
+But this proved more distressing, 
+And added to my pain. 
+Some said that nothing ail’d me, 
+Some gave me up for lost; 
+Thus every refuge failed me, 
+And all my hopes were cross’d.
+
+4. 
+At length this great physician, 
+How matchless is his grace! 
+Accepted my petition, 
+And undertook my case; 
+First gave me sight to view him, 
+For sin mine eyes had seal’d, 
+Then bade me look unto him; 
+I look’d-and I was heal’d.
+```
+- |   -  |
+-------------|------------|
+Title | The Great Physician |
+Key |  |
+Titles |  |
+First Line | How lost was my condition,  |
+Author | 
+Year | 
+Composer|  |
+Hymnal|  - |
+Tune|  |
+Metrical pattern | |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
+Subjects |  |
+Texts |  |
+Print Texts | 
+Scripture Song |  |
+    
+---
+pagetitle: |
+    040. Day of Judgment - Millenial Harp
+metadata:
+    description: |
+        Millenial Harp 040. Day of Judgment. 1. See th’eternal Judge descending, Seated on his Father’s throne; Now, poor sinner, Christ shall show thee He is the eternal Son. Trumpets call thee, trumpets call thee! Come to hear thy awful doom.
+    keywords:  |
+        Millenial Harp, adventhymnals, advent hymnals, Day of Judgment, See th’eternal Judge descending, . 
+    author: Brian Onang'o
+---
+
+## 040. DAY OF JUDGMENT
+
+```txt
+1. 
+See th’eternal Judge descending, 
+Seated on his Father’s throne; 
+Now, poor sinner, Christ shall show thee 
+He is the eternal Son. 
+Trumpets call thee, trumpets call thee! 
+Come to hear thy awful doom.
+```
+- |   -  |
+-------------|------------|
+Title | Day of Judgment |
+Key |  |
+Titles |  |
+First Line | See th’eternal Judge descending,  |
+Author | 
+Year | 
+Composer|  |
+Hymnal|  - |
+Tune|  |
+Metrical pattern | |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
+Subjects |  |
+Texts |  |
+Print Texts | 
+Scripture Song |  |
+    
+---
+pagetitle: |
+    031. Escape for thy life - Millenial Harp
+metadata:
+    description: |
+        Millenial Harp 031. Escape for thy life. 1. See Sodom wrapt in fire! And hark, what piercing shrieks! Those daring rebels now expire, For God in justice speaks.
+    keywords:  |
+        Millenial Harp, adventhymnals, advent hymnals, Escape for thy life, See Sodom wrapt in fire! . 
+    author: Brian Onang'o
+---
+
+## 031. ESCAPE FOR THY LIFE
+
+```txt
+1. 
+See Sodom wrapt in fire! 
+And hark, what piercing shrieks! 
+Those daring rebels now expire, 
+For God in justice speaks.
+
+2. 
+O sinner, mark thy fate! 
+Soon will the Judge appear; 
+And then thy cries will come too late; 
+Too late for God to hear.
+
+3. 
+Thy day of mercy gone, 
+The Spirit grieved away, 
+Thy cup, long filling, now o’erflown, 
+Demands the vengeful day.
+
+4. 
+Thy God, insulted, seems 
+To draw his glittering sword; 
+And o’er thy guilty head it gleams, 
+To vindicate his word.
+
+5. 
+One only hope I see; 
+Oh, sinner, seize it now,— 
+The blood that Jesus shed for thee! 
+No other hope hast thou.
+```
+- |   -  |
+-------------|------------|
+Title | Escape for thy life |
+Key |  |
+Titles |  |
+First Line | See Sodom wrapt in fire!  |
+Author | 
+Year | 
+Composer|  |
+Hymnal|  - |
+Tune|  |
+Metrical pattern | |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
+Subjects |  |
+Texts |  |
+Print Texts | 
+Scripture Song |  |
+    
+---
+pagetitle: |
+    033. The Lord is our Shepherd - Millenial Harp
+metadata:
+    description: |
+        Millenial Harp 033. The Lord is our Shepherd. 1. The Lord is our Shepherd, our guardian and guide; Whatever we want, he will kindly provide. To th’sheep of his pasture his mercies abound. His care and protection his flock will surround.
+    keywords:  |
+        Millenial Harp, adventhymnals, advent hymnals, The Lord is our Shepherd, The Lord is our Shepherd, our guardian and guide; . 
+    author: Brian Onang'o
+---
+
+## 033. THE LORD IS OUR SHEPHERD
+
+```txt
+1. 
+The Lord is our Shepherd, our guardian and guide; 
+Whatever we want, he will kindly provide. 
+To th’sheep of his pasture his mercies abound. 
+His care and protection his flock will surround.
+
+2. 
+The Lord is our Shepherd; what then shall we fear, 
+What danger can frighten us while he is near? 
+Not when the time calls us to walk thro’ the vale 
+Of the shadow of death, shall our hearts ever fail.
+
+3. 
+Tho’ afraid of ourselves, to pursue the dark way, 
+Thy rod and thy staff be our comfort and stay; 
+For we know by thy guidance, when once it is past, 
+To a fountain of life it will bring us at last.
+
+4. 
+The Lord is become our salvation and song, 
+His blessings have follow’d us all our life long; 
+His name will we praise while we have any breath; 
+Be cheerful in life, and be happy in death.
+```
+- |   -  |
+-------------|------------|
+Title | The Lord is our Shepherd |
+Key |  |
+Titles |  |
+First Line | The Lord is our Shepherd, our guardian and guide;  |
+Author | 
+Year | 
+Composer|  |
+Hymnal|  - |
+Tune|  |
+Metrical pattern | |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
+Subjects |  |
+Texts |  |
+Print Texts | 
+Scripture Song |  |
+    
+---
+pagetitle: |
+    034. “Lead me to the Rock.” - Millenial Harp
+metadata:
+    description: |
+        Millenial Harp 034. “Lead me to the Rock.”. 1. O, Savior of sinners, when faint and depressed, With manifold trials and sorrows oppressed, I’ll bow at thy feet, and with confidence cry, “Lead me to the Rock that is higher than I!”
+    keywords:  |
+        Millenial Harp, adventhymnals, advent hymnals, “Lead me to the Rock.”, O, Savior of sinners, when faint and depressed, . 
+    author: Brian Onang'o
+---
+
+## 034. “LEAD ME TO THE ROCK.”
+
+```txt
+1. 
+O, Savior of sinners, when faint and depressed, 
+With manifold trials and sorrows oppressed, 
+I’ll bow at thy feet, and with confidence cry, 
+“Lead me to the Rock that is higher than I!”
+
+2. 
+When tempted by Satan the Spirit to grieve, 
+And the service of Christ, my Redeemer to leave, 
+I’ll claim my relation to Jesus on high- 
+The Rock of salvation, that’s higher than I!
+
+3. 
+When judgments, O Lord, are abroad in the land, 
+And merited vengeance descends from thy hand! 
+O’erwhelmed with the sight, for protection I’ll fly, 
+And hide in the Rock, that is higher than I!
+
+4. 
+When summoned by death before God to appear, 
+By free-grace supported I’ll yield without fear! 
+Most gladly I’ll venture with Jesus on high, 
+To enter the Rock that is higher than I!
+
+5. 
+‘Tis there, with the chosen of Jesus, I long 
+To dwell, and eternally join in the song, 
+Of praising and blessing with angels on high, 
+Christ Jesus, the Rock that it higher than I!
+```
+- |   -  |
+-------------|------------|
+Title | “Lead me to the Rock.” |
+Key |  |
+Titles |  |
+First Line | O, Savior of sinners, when faint and depressed,  |
+Author | 
+Year | 
+Composer|  |
+Hymnal|  - |
+Tune|  |
+Metrical pattern | |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
+Subjects |  |
+Texts |  |
+Print Texts | 
+Scripture Song |  |
+    
+---
+pagetitle: |
+    036. The God of Abraham - Millenial Harp
+metadata:
+    description: |
+        Millenial Harp 036. The God of Abraham. 1. The God of Abraham praise, Who reigns enthron’d above Ancient of everlasting days, And God of love; Jehovah, Great I Am! By earth and heav’n confess’d; I bow and bless the sacred name, Forever bless’d.
+    keywords:  |
+        Millenial Harp, adventhymnals, advent hymnals, The God of Abraham, The God of Abraham praise, . 
+    author: Brian Onang'o
+---
+
+## 036. THE GOD OF ABRAHAM
+
+```txt
+1. 
+The God of Abraham praise, 
+Who reigns enthron’d above 
+Ancient of everlasting days, 
+And God of love; 
+Jehovah, Great I Am! 
+By earth and heav’n confess’d; 
+I bow and bless the sacred name, 
+Forever bless’d.
+
+2. 
+The God of Abraham praise, 
+At whose supreme command 
+From earth I rise-and seek the joys 
+At his right hand: 
+I all on earth forsake, 
+Its wisdom, fame, and power, 
+And him my only portion make, 
+My shield and tower.
+
+3. 
+The God of Abraham praise; 
+Whose all-sufficient grace 
+Shall guide me all my happy days, 
+In all his ways: 
+He calls a worm his friend. 
+He calls himself my God! 
+And he shall save me to the end. 
+Through Jesus’ blood.
+
+4. 
+He by Himself hath sworn, 
+I on his oath depend, 
+I shall on eagles’ wings upborne 
+To Heaven ascend: 
+I shall behold his face, 
+I shall his power adore, 
+And sing the wonders of his grace 
+Forevermore.
+```
+- |   -  |
+-------------|------------|
+Title | The God of Abraham |
+Key |  |
+Titles |  |
+First Line | The God of Abraham praise,  |
+Author | 
+Year | 
+Composer|  |
+Hymnal|  - |
+Tune|  |
+Metrical pattern | |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
+Subjects |  |
+Texts |  |
+Print Texts | 
+Scripture Song |  |
+    
+---
+pagetitle: |
+    039. Lift your Heads - Millenial Harp
+metadata:
+    description: |
+        Millenial Harp 039. Lift your Heads. 1. Lift your heads, ye friends of Jesus, Partners in his patience here; Christ to all believers precious, Lord of lords, shall soon appear: Mark the tokens, Mark the tokens, Mark the tokens of his heavenly kingdom near.
+    keywords:  |
+        Millenial Harp, adventhymnals, advent hymnals, Lift your Heads, Lift your heads, ye friends of Jesus, . 
+    author: Brian Onang'o
+---
+
+## 039. LIFT YOUR HEADS
+
+```txt
+1. 
+Lift your heads, ye friends of Jesus, 
+Partners in his patience here; 
+Christ to all believers precious, 
+Lord of lords, shall soon appear: 
+Mark the tokens, 
+Mark the tokens, 
+Mark the tokens 
+of his heavenly kingdom near.
+
+2. 
+Hear all nature’s groans proclaiming 
+Nature’s swift approaching doom! 
+War, and pestilence, and famine, 
+Signify the wrath to come; 
+Cleaves the centre, 
+Nations rush into the tomb.
+
+3. 
+Close behind the tribulation 
+Of the last tremendous days, 
+See the flaming Revelation! 
+See the universal blaze! 
+Earth and heaven 
+Melt before the Judge’s face.
+
+4. 
+Sun and moon are both confounded, 
+Darken’d into endless night, 
+When with angel-hosts surrounded, 
+In his Father’s glory bright, 
+Beams the Savior, 
+Shines the everlasting light.
+
+5. 
+See the stars from heaven falling! 
+Hark! on earth the doleful cry! 
+Men on rocks and mountains calling, 
+While the frowning Judge draws nigh; 
+Hide us, hide us, 
+Rock and mountains, from his eye!
+
+6. 
+With what different exclamation 
+Shall the saints his banner see! 
+By the monuments of his passion, 
+By the marks received for  
+All discern him, 
+All with shouts cry out—“‘Tis He!”
+
+7. 
+“Lo! ‘tis He! our heart’s desire, 
+Come for his espoused below; 
+Come to join us with the choir, 
+Come to make our joys o’erflow: 
+Palms of victory, 
+Crowns of glory to bestow.”
+
+8. 
+Yes, the prize shall sure be given; 
+We his open face shall see: 
+Love, the earnest of our heaven, 
+Love our full reward shall be; 
+Love shall crown us 
+Kings thro’ all eternity.
+```
+- |   -  |
+-------------|------------|
+Title | Lift your Heads |
+Key |  |
+Titles |  |
+First Line | Lift your heads, ye friends of Jesus,  |
+Author | 
+Year | 
+Composer|  |
+Hymnal|  - |
+Tune|  |
+Metrical pattern | |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
+Subjects |  |
+Texts |  |
+Print Texts | 
+Scripture Song |  |
+    
+---
+pagetitle: |
+    035. My Brother I wish you well - Millenial Harp
+metadata:
+    description: |
+        Millenial Harp 035. My Brother I wish you well. 1. My Brother I wish you well, My Brother I wish you well, When my Lord calls I trust I shall, Be mention’d in the promis’d land. Chorus. Be mention’d in the promised land, Be mention’d in the promised land, Where my Lord calls I trust I shall, Be mention’d in the promis’d land.
+    keywords:  |
+        Millenial Harp, adventhymnals, advent hymnals, My Brother I wish you well, My Brother I wish you well, . 
+    author: Brian Onang'o
+---
+
+## 035. MY BROTHER I WISH YOU WELL
+
+```txt
+1. 
+My Brother I wish you well, 
+My Brother I wish you well, 
+When my Lord calls I trust I shall, 
+Be mention’d in the promis’d land. 
+Chorus. 
+Be mention’d in the promised land, 
+Be mention’d in the promised land, 
+Where my Lord calls I trust I shall, 
+Be mention’d in the promis’d land.
+
+2 My sister I wish you well, etc. 
+3 My father I wish you well, etc. 
+4 My mother I wish you well, etc. 
+5 My neighbors I wish you well, etc. 
+6 My pastor I wish you well, etc. 
+7 Young converts I wish you well, etc. 
+8 Poor sinner I wish you well, etc.
+```
+- |   -  |
+-------------|------------|
+Title | My Brother I wish you well |
+Key |  |
+Titles |  |
+First Line | My Brother I wish you well,  |
+Author | 
+Year | 
+Composer|  |
+Hymnal|  - |
+Tune|  |
+Metrical pattern | |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
+Subjects |  |
+Texts |  |
+Print Texts | 
+Scripture Song |  |
+    
+---
+pagetitle: |
+    032. China - Millenial Harp
+metadata:
+    description: |
+        Millenial Harp 032. China. 1. Why do we mourn departing friends, Or shake at death’s alarms? ‘Tis but the voice that Jesus sends To call them to his arms.
+    keywords:  |
+        Millenial Harp, adventhymnals, advent hymnals, China, Why do we mourn departing friends, . 
+    author: Brian Onang'o
+---
+
+## 032. CHINA
+
+```txt
+1. 
+Why do we mourn departing friends, 
+Or shake at death’s alarms? 
+‘Tis but the voice that Jesus sends 
+To call them to his arms.
+
+2. 
+Are we not lending upward too, 
+As fast as time can move? 
+Nor should we wish the hours more slow, 
+To keep us from our love.
+
+3. 
+Why should we tremble to convey 
+Their bodies to the tomb? 
+There the dear flesh of Jesus lay, 
+And left a long perfume.
+
+4. 
+The graves of all his saints be blest, 
+And soften’d every bed; 
+Where should the dying members rest, 
+But with their dying Head.
+
+5. 
+Thence he arose, ascending high, 
+And show’d our feet the way: 
+Up to the Lord our flesh shall fly, 
+At the great rising day.
+
+6. 
+Then tot the last trumpet sound, 
+And bid our kindred rise; 
+Awake, ye nations under ground; 
+Ye saints, ascend the skies.
+```
+- |   -  |
+-------------|------------|
+Title | China |
+Key |  |
+Titles |  |
+First Line | Why do we mourn departing friends,  |
+Author | 
+Year | 
+Composer|  |
+Hymnal|  - |
+Tune|  |
+Metrical pattern | |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
+Subjects |  |
+Texts |  |
+Print Texts | 
+Scripture Song |  |
+    
+---
+pagetitle: |
+    038. Wandering Pilgrims - Millenial Harp
+metadata:
+    description: |
+        Millenial Harp 038. Wandering Pilgrims. 1. Wandering pilgrims, mourning Christians, Weak and tempted Lambs of Christ, Who endure great tribulation, And with sin are sore distress’d, Christ hath sent me to invite you, To a rich and costly feast; Let not shame or pride prevent you,  Come the rich provision taste.
+    keywords:  |
+        Millenial Harp, adventhymnals, advent hymnals, Wandering Pilgrims, Wandering pilgrims, mourning Christians, . 
+    author: Brian Onang'o
+---
+
+## 038. WANDERING PILGRIMS
+
+```txt
+1. 
+Wandering pilgrims, mourning Christians, 
+Weak and tempted Lambs of Christ, 
+Who endure great tribulation, 
+And with sin are sore distress’d, 
+Christ hath sent me to invite you, 
+To a rich and costly feast; 
+Let not shame or pride prevent you,  
+Come the rich provision taste.
+
+2. 
+If you have a heart lamenting 
+And bemoan your wretched case, 
+Come to Jesus Christ, repenting, 
+He will give you gospel grace: 
+If you want a heart to fear him, 
+Love and serve him here below; 
+With your troubles now draw near him, 
+He the blessing will bestow.
+
+3. 
+If, like poor Bartimeus blinded, 
+You bewail the want of sight, 
+Cry to Jesus, son of David, 
+He will give you gospel light: 
+If no one appear to help you, 
+All their efforts prove but talk: 
+Jesus ready waits to heal, you, 
+He will bid you rise and walk.
+
+4. 
+If, like Peter, you are sinking 
+In the sea of unbelief; 
+Wait with patient, constant praying, 
+Christ will grant you sweet relief. 
+Are you weary, heavy laden? 
+He will give you sweet repose; 
+Bear his light and easy burden, 
+He shall conquer all your foes.
+
+5. 
+He will give you grace and glory, 
+All your wants shall be supplied: 
+Canaan, Canaan, lies before you, 
+Rise, and cross the swelling tide. 
+Death shall not destroy your comfort, 
+Christ shall guide you thro’ the gloom, 
+Down he’ll send an heavenly convoy, 
+To convey you to his home.
+```
+- |   -  |
+-------------|------------|
+Title | Wandering Pilgrims |
+Key |  |
+Titles |  |
+First Line | Wandering pilgrims, mourning Christians,  |
+Author | 
+Year | 
+Composer|  |
+Hymnal|  - |
+Tune|  |
+Metrical pattern | |
+# Stanzas |  |
+Chorus |  |
+Chorus Type |  |
+Subjects |  |
+Texts |  |
+Print Texts | 
+Scripture Song |  |
+    
