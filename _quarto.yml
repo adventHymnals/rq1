@@ -2,6 +2,7 @@ project:
   type: website
 
 website: 
+  search: false
   page-navigation: false
   title: "Advent Hymnals" 
   site-url: "https://adventhymnals.org" 
