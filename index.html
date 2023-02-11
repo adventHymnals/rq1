@@ -2,12 +2,15 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.2.313">
+<meta name="generator" content="quarto-1.2.335">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="author" content="Brian Onang’o">
+<meta name="keywords" content="advent hymnals, sda hymnals, christ in song, church hymnal, millenial harp, sdah, seventh-day adventist hymnal">
+<meta name="description" content="Advent Hymnals is a master collection of all the hymns sung by adventists as contained in such hymnals as Christ in Song, Church hymnal and Seventh Day adventist hymnal, millenial harp. These are a rich source of church history as well as of music.">
 
-<title>NOAA quarto simple - NOAA quarto simple with R</title>
+<title>Advent Hymnals</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -22,14 +25,14 @@ ul.task-list li input[type="checkbox"] {
 }
 </style>
 
-
 <script src="site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="site_libs/quarto-nav/headroom.min.js"></script>
 <script src="site_libs/clipboard/clipboard.min.js"></script>
 <script src="site_libs/quarto-search/autocomplete.umd.js"></script>
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
-<link href="./jekyll/blog/abc.html" rel="next">
+<link href="./campus-melodies" rel="next">
 <link href="./images/favicon.ico" rel="icon">
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
@@ -43,11 +46,11 @@ ul.task-list li input[type="checkbox"] {
 <link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
 <link href="site_libs/bootstrap/bootstrap-dark.min.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
 <script id="quarto-search-options" type="application/json">{
-  "location": "sidebar",
-  "copy-button": false,
+  "location": "navbar",
+  "copy-button": true,
   "collapse-after": 3,
-  "panel-placement": "start",
-  "type": "textbox",
+  "panel-placement": "end",
+  "type": "overlay",
   "limit": 20,
   "language": {
     "search-no-results-text": "No results",
@@ -62,16 +65,15 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
-
 </head>
 
-<body class="nav-sidebar docked">
+<body class="nav-sidebar docked fullcontent">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
   <nav class="quarto-secondary-nav" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
     <div class="container-fluid d-flex justify-content-between">
-      <h1 class="quarto-secondary-nav-title">NOAA quarto simple with R</h1>
+      <h1 class="quarto-secondary-nav-title">Advent Hymnals</h1>
       <button type="button" class="quarto-btn-toggle btn" aria-label="Show secondary navigation">
         <i class="bi bi-chevron-right"></i>
       </button>
@@ -79,18 +81,18 @@ ul.task-list li input[type="checkbox"] {
   </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article">
 <!-- sidebar -->
   <nav id="quarto-sidebar" class="sidebar collapse sidebar-navigation docked overflow-auto">
     <div class="pt-lg-2 mt-2 text-center sidebar-header">
-      <a href="./index.html" class="sidebar-logo-link">
-      <img src="https://raw.githubusercontent.com/nmfs-opensci/assets/main/logo/nmfs-opensci-logo3.png" alt="" class="sidebar-logo py-0 d-lg-inline d-none">
-      </a>
-      <div class="sidebar-tools-main tools-wide">
-    <a href="https://nmfs-opensci.github.io" title="NMFS Open Science" class="sidebar-tool px-1"><i class="bi bi-globe"></i></a>
-    <a href="https://github.com/nmfs-opensci" title="NMFS OpenSci" class="sidebar-tool px-1"><i class="bi bi-github"></i></a>
+    <div class="sidebar-title mb-0 py-0">
+      <a href="./">Advent Hymnals</a> 
+        <div class="sidebar-tools-main tools-wide">
+    <a href="https://gospelsounders.org" title="Gospel Sounders" class="sidebar-tool px-1"><i class="bi bi-globe"></i></a>
+    <a href="https://github.com/adventhymnals" title="Advent Hymnals" class="sidebar-tool px-1"><i class="bi bi-github"></i></a>
   <a href="" class="quarto-color-scheme-toggle sidebar-tool" onclick="window.quartoToggleColorScheme(); return false;" title="Toggle dark mode"><i class="bi"></i></a>
 </div>
+    </div>
       </div>
       <div class="mt-2 flex-shrink-0 align-items-center">
         <div class="sidebar-search">
@@ -99,87 +101,227 @@ ul.task-list li input[type="checkbox"] {
       </div>
     <div class="sidebar-menu-container"> 
     <ul class="list-unstyled mt-1">
-        <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./index.html" class="sidebar-item-text sidebar-link active">Home</a>
-  </div>
-</li>
-        <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./jekyll/blog/abc.html" class="sidebar-item-text sidebar-link">ABC</a>
-  </div>
-</li>
-        <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./jekyll/blog/hosting-advent-hymnals-in-csycms-server.html" class="sidebar-item-text sidebar-link">Blogo</a>
-  </div>
-</li>
-        <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./content/add-content.html" class="sidebar-item-text sidebar-link">Add content</a>
-  </div>
-</li>
-        <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./content/customizing.html" class="sidebar-item-text sidebar-link">Customizing</a>
-  </div>
-</li>
-        <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./content/rendering.html" class="sidebar-item-text sidebar-link">Rendering</a>
-  </div>
-</li>
-        <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./content/acknowledgements.html" class="sidebar-item-text sidebar-link">Acknowledgements</a>
-  </div>
-</li>
-    </ul>
+
+        <li class="sidebar-item">        <li class="sidebar-item">  <div class="sidebar-item-container">   <a href="./index.html" class="sidebar-item-text sidebar-link active">Home</a>  </div>
+        <li class="sidebar-item">        <li class="sidebar-item">  <div class="sidebar-item-container">   <a href="./campus-melodies" class="sidebar-item-text sidebar-link">Campus Melodies</a>  </div>
+        <li class="sidebar-item">        <li class="sidebar-item">  <div class="sidebar-item-container">   <a href="./hymns-for-the-poor-of-the-flock" class="sidebar-item-text sidebar-link">Hymns for the Poor of the Flock</a>  </div>
+        <li class="sidebar-item">        <li class="sidebar-item">  <div class="sidebar-item-container">   <a href="./millenial-harp" class="sidebar-item-text sidebar-link">Millenial Harp</a>  </div>
+        <li class="sidebar-item">        <li class="sidebar-item">  <div class="sidebar-item-container">   <a href="./Hymns-for-Gods-Peculiar-People" class="sidebar-item-text sidebar-link">Hymns for God’s Peculiar People</a>  </div>
+        <li class="sidebar-item">        <li class="sidebar-item">  <div class="sidebar-item-container">   <a href="./christ-in-song" class="sidebar-item-text sidebar-link">Christ in Song</a>  </div>
+        <li class="sidebar-item">        <li class="sidebar-item">  <div class="sidebar-item-container">   <a href="./church-hymnal" class="sidebar-item-text sidebar-link">Church Hymnal</a>  </div>
+        <li class="sidebar-item">        <li class="sidebar-item">  <div class="sidebar-item-container">   <a href="./seventh-day-adventist-hymnal" class="sidebar-item-text sidebar-link">Seventh-day Adventist Hymnal</a>  </div>
+        <li class="sidebar-item">        <li class="sidebar-item">  <div class="sidebar-item-container">   <a href="./nyimbo-za-kristo" class="sidebar-item-text sidebar-link">Nyimbo za Kristo</a>  </div>
+        <li class="sidebar-item">        <li class="sidebar-item">  <div class="sidebar-item-container">   <a href="./wende-nyasaye" class="sidebar-item-text sidebar-link">Wende Nyasaye</a>  </div>
+        <li class="sidebar-item">        <li class="sidebar-item">  <div class="sidebar-item-container">   <a href="./blog" class="sidebar-item-text sidebar-link">Blog</a>  </div>
     </div>
 </nav>
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc" class="toc-active">
-    <h2 id="toc-title">On this page</h2>
-   
-  <ul>
-  <li><a href="#github-set-up" id="toc-github-set-up" class="nav-link active" data-scroll-target="#github-set-up">GitHub Set-up</a></li>
-  </ul>
-<div class="toc-actions"><div><i class="bi bi-github"></i></div><div class="action-links"><p><a href="https://github.com/nmfs-opensci/NOAA-quarto-simple/edit/main/index.qmd" class="toc-action">Edit this page</a></p><p><a href="https://github.com/nmfs-opensci/NOAA-quarto-simple/blob/main/index.qmd" class="toc-action">View source</a></p><p><a href="https://github.com/nmfs-opensci/NOAA-quarto-simple/issues/new" class="toc-action">Report an issue</a></p></div></div></nav>
-    </div>
+
 <!-- main -->
-<main class="content column-body" id="quarto-document-content">
+<main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title d-none d-lg-block">NOAA quarto simple with R</h1>
-<p class="subtitle lead">A simple Quarto webpage with a book layout</p>
+<h1 class="title d-none d-lg-block">Advent Hymnals</h1>
 </div>
 
-
+<div>
+  <div class="description">
+    Advent Hymnals is a master collection of all the hymns sung by adventists as contained in such hymnals as Christ in Song, Church hymnal and Seventh Day adventist hymnal, millenial harp. These are a rich source of church history as well as of music.
+  </div>
+</div>
 
 <div class="quarto-title-meta">
 
-    
-  
-    
+    <div>
+    <div class="quarto-title-meta-heading">Author</div>
+    <div class="quarto-title-meta-contents">
+             <p>Brian Onang’o </p>
+          </div>
   </div>
-  
+
+  </div>
 
 </header>
 
-<p>This is a template for a simple Quarto website that looks like a “book”. This is a common format for documentation. It includes a GitHub Action that will build the website automatically when you make changes to the files. The NOAA palette and fonts has been added to <code>theme.scss</code>. The webpage will be on the <code>gh-pages</code> branch. Serving the website files from this branch is a common way to keep all the website files from cluttering your main branch.</p>
-<p>The GitHub Action installs R so you can have R code in your qmd or Rmd files. Note, you do not need to make changes to your Rmd files unless your need Quarto features like cross-references.</p>
-<section id="github-set-up" class="level2">
-<h2 class="anchored" data-anchor-id="github-set-up">GitHub Set-up</h2>
-<ul>
-<li><p>Click the green “use template” button to make a repository with this content. Make sure to make your repo public (since GitHub Pages doesn’t work on private repos unless you have a paid account) and check box to include all the branches (so that you get the gh-pages branch). <img width="637" alt="image" src="https://user-images.githubusercontent.com/2545978/197051535-c43c62de-17e8-40bf-a536-3eea8db250c4.png"></p></li>
-<li><p>Turn on GitHub Pages under Settings &gt; Pages . You will set pages to be made from the gh-pages branch and root directory. <img width="540" alt="image" src="https://user-images.githubusercontent.com/2545978/196808262-3d2262be-b9b5-4897-bba5-fc2f056dd335.png"></p></li>
-<li><p>Turn on GitHub Actions under Settings &gt; Actions &gt; General <img width="719" alt="image" src="https://user-images.githubusercontent.com/2545978/196808404-0c075fcf-db03-4516-88dd-3143b9fca475.png"></p></li>
-<li><p>Edit the repo description and Readme to add a link to the webpage. When you edit the description, you will see the link url in the url box or you can click on the Actions tab or the Settings &gt; Pages page to find the url.</p></li>
-</ul>
+<section id="advent-hymnals" class="level4">
+<h4 class="anchored" data-anchor-id="advent-hymnals">Advent Hymnals</h4>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="{{{cself}}}/charles-wesley-hymn-690x385.jpg" class="img-fluid figure-img"></p>
+<p></p><figcaption class="figure-caption">Alt Text</figcaption><p></p>
+</figure>
+</div>
+</section>
+<section id="advent-hymnals-1" class="level1">
+<h1>Advent Hymnals</h1>
+<p><em>What songs have cheared the adventist band since their great disappointment in 1844?</em> These are all contained in this project. Advent hymnals is a master collection of all the hymns sung by adventists as contained in such hymnals as Christ in Song, Church hymnal and Seventh Day adventist hymnal, millenial harp, etc. These are a rich source of church history as well as of music.</p>
+<p>The sum of these songs minister to the downcast soul, to the weary soul, and tells us all the duty that we owe to God and to our fellow men. Listen to this one from <code>Millenial Harp</code>:</p>
+<pre><code>There will be a mighty wailing, there will be a mighty wailing,
+There will be a mighty wailing, at the old church yards,
+While the band of music, while the band of music,
+While the band of music shall be sounding through the air.
 
+O Sinner you will tremble, O Sinner you will tremble
+O Sinner you will tremble, at the old church yards,
+While the band of music, while the band of music,
+While the band of music shall be sounding through the air.
 
+You will flee to rocks and mountains, you will flee to rocks and mountains,
+You will flee to rocks and mountains, from the old church yards,
+While the band of music, while the band of music,
+While the band of music shall be sounding through the air.</code></pre>
+<p>While they sang in early adventism <code>when we all get to heaven</code> and other chearing songs alongs the same lines, it was not lost to them the need of warning the sinners both in Zion and in Babylon of their pathetic fate if they continued stiffing their necks in sin. Why has this Spirit been lost from the church so that nobody wants to hear the straight testimony anymore? Could it be that this is due to the fact that such staight-testimony songs have been lost sight of?</p>
+<p>Here is another one from Christ in Song. Notice the third stanza.</p>
+<pre><code>1 Some one will enter the pearly gate
+By and by, by and by,
+Taste of the glories that there await,
+Shall you? shall I? Shall you? shall I?
+Some one will travel the streets of gold,
+Beautiful visions will there behold,
+Feast on the pleasures so long foretold:
+Shall you? shall I? Shall you? shall I?
+
+2 Some one will gladly his cross lay down
+By and by, by and by,
+Faithful, approved, shall receive a crown, 
+Shall you? shall I? Shall you? shall I?
+Some one the glorious King will see,
+Ever from sorrow of earth be free,
+Happy with Him thro' eternity: 
+Shall you? shall I? Shall you? shall I?
+
+3 Some one will knock when the door is shut
+By and by, by and by,
+Hear a voice saying, "I know you not,"
+Shall you? shall I? Shall you? shall I?
+Some one will call and shall not be heard,
+Vainly will strive when the door is barred,
+Some one will fail of the saint's reward:
+Shall you? shall I? Shall you? shall I?
+
+4 Some one will sing the triumphant song
+By and by, by and by,
+Join in the praise with the blood-bought throng,
+Shall you? shall I? shall you? shall I?
+Some one will greet on the golden shore
+Loved ones of earth pain and parting o'er,
+Safe in the glory for evermore:
+Shall you? shall I? Shall you? shall I?</code></pre>
+<section id="what-is-contained-in-advent-hymnals" class="level2">
+<h2 class="anchored" data-anchor-id="what-is-contained-in-advent-hymnals">What is contained in Advent Hymnals?</h2>
+<p>This is an ambitious project, already spanning more than a year. At the end of it, it should be able to achieve the following:</p>
+<ol type="1">
+<li>Text for all the songs in all hymnals used by Adventist from Millenial Harp of 1843 all the way to the present one.</li>
+<li>Tunes for all of these hymns.</li>
+<li>Links to renditions of these songs if they exist, or to those sang by singing software if human renditions of the same are not available.</li>
+<li>Identify and make visible all points where there is an error in any of the songs, such as in Millenial Harp where it says of the second advent <code>Gabriel sounds his mighty trumpet</code>. This is part of singing with understanding.</li>
+<li>Identify all changes that have been introduced in the modern hymnals and the reasons behind those changes.</li>
+<li>Avail all this data in an easy to use mobile phone application.</li>
+<li>Avail also a desktop application for personal use or for projecting in public worship.</li>
+</ol>
+</section>
+<section id="then-what" class="level2">
+<h2 class="anchored" data-anchor-id="then-what">Then What?</h2>
+<p>You may not have the priviledge of singing these songs in your church. Maybe you belong to one of those churches where most people know but a few songs and they never ever want to learn any new one, so that it is the same rounds meeting after meeting. But remember that in your family worship you can sing these. We will continue doing all that we can so as to make learning the songs here so easy that a child uneducated in music can learn them on his own.</p>
+<p>As you continue singing, you will learn such deep Bible truths that can never be effaced.</p>
+</section>
+<section id="how-to-use" class="level2">
+<h2 class="anchored" data-anchor-id="how-to-use">How to Use</h2>
+<p>You can scroll through the available hymnals using the menu where you will also be able to access some studies in music.</p>
+<section id="structure" class="level3">
+<h3 class="anchored" data-anchor-id="structure">Structure</h3>
+<p>The following structure has been adopted for the hymns to enable as much information as possible to be given for any particular hymn:-</p>
+<p>Each hymn page has two sections:</p>
+<ol type="1">
+<li><p>The top section having the text/lyrics of the hymn in question.</p></li>
+<li><p>A bottom section having additional information about the hymn, including:</p></li>
+</ol>
+<table class="table">
+<colgroup>
+<col style="width: 52%">
+<col style="width: 48%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Item</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Title</td>
+<td>The title of the hymn</td>
+</tr>
+<tr class="even">
+<td>Titles</td>
+<td>Other titles, or other phrases by which the hymn is popularly known</td>
+</tr>
+<tr class="odd">
+<td>First Line</td>
+<td>The first line of the hymn, or a considerably short portion of its first line</td>
+</tr>
+<tr class="even">
+<td>Key</td>
+<td>The key in which the music was written. The key is not cast in stone; it can be transposed to any key for comfortable singing.</td>
+</tr>
+<tr class="odd">
+<td>Author</td>
+<td>The author of the song</td>
+</tr>
+<tr class="even">
+<td>Year</td>
+<td>When the song was written. A comma separates two dates (the year written and year translated) for songs that were translated from other languages.</td>
+</tr>
+<tr class="odd">
+<td>Composer</td>
+<td>The composer of the music</td>
+</tr>
+<tr class="even">
+<td>Hymnal</td>
+<td>Original Hymnal where hymn was picked from (mostly for translated songs)</td>
+</tr>
+<tr class="odd">
+<td>Tune</td>
+<td>The name of the tune</td>
+</tr>
+<tr class="even">
+<td>Metrical pattern</td>
+<td>The metrical pattern. Used to create an index of songs which can be sung using the same tune.</td>
+</tr>
+<tr class="odd">
+<td># Stanzas</td>
+<td>The number of stanzas in the song. This is used for comparing the song across different hymnals</td>
+</tr>
+<tr class="even">
+<td>Chorus</td>
+<td>If the hymn has a chorus</td>
+</tr>
+<tr class="odd">
+<td>Chorus Type</td>
+<td>This is either of (1) Refrain or (2) Chorus, where a refrain has a leading voice while a chorus has not.</td>
+</tr>
+<tr class="even">
+<td>Subjects</td>
+<td>The specific subject the song addresses, eg second advent, Christian Standards, etc.</td>
+</tr>
+<tr class="odd">
+<td>Texts</td>
+<td>Comma separate list of scripture passages to which the song is relevant.</td>
+</tr>
+<tr class="even">
+<td>Print Texts</td>
+<td>The texts of the passages to which the song is relevant</td>
+</tr>
+<tr class="odd">
+<td>Scripture Song</td>
+<td>If the song is a scripture song</td>
+</tr>
+</tbody>
+</table>
+
+</section>
+</section>
 </section>
 
 </main> <!-- /main -->
@@ -431,23 +573,20 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
 });
 </script>
-<nav class="page-navigation column-body">
+<nav class="page-navigation">
   <div class="nav-page nav-page-previous">
   </div>
   <div class="nav-page nav-page-next">
-      <a href="./jekyll/blog/abc.html" class="pagination-link">
-        <span class="nav-page-text">ABC</span> <i class="bi bi-arrow-right-short"></i>
+      <a href="./campus-melodies" class="pagination-link">
+        <span class="nav-page-text">Campus Melodies</span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>
 </nav>
 </div> <!-- /content -->
 <footer class="footer">
   <div class="nav-footer">
-    <div class="nav-footer-left">© CC-1.0</div>   
-    <div class="nav-footer-right">This page is built with <a href="https://quarto.org/">Quarto</a>.</div>
+      <div class="nav-footer-center">© 2018-2023 Gospel Sounders</div>
   </div>
 </footer>
-
-
 
 </body></html>

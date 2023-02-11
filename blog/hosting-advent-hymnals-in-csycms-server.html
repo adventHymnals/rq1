@@ -2,14 +2,14 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.2.313">
+<meta name="generator" content="quarto-1.2.335">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 <meta name="author" content="brian">
 <meta name="dcterms.date" content="1908-01-01">
 
-<title>NOAA quarto simple - Setting up a Csycms Server for Hosting Advent Hymnals</title>
+<title>Setting up a Csycms Server for Hosting Advent Hymnals</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -89,6 +89,7 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
 
 
 <script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/quarto-nav/headroom.min.js"></script>
 <script src="../site_libs/clipboard/clipboard.min.js"></script>
 <script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
 <script src="../site_libs/quarto-search/fuse.min.js"></script>
@@ -107,11 +108,11 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
 <link href="../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
 <link href="../site_libs/bootstrap/bootstrap-dark.min.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
 <script id="quarto-search-options" type="application/json">{
-  "location": "sidebar",
-  "copy-button": false,
+  "location": "navbar",
+  "copy-button": true,
   "collapse-after": 3,
-  "panel-placement": "start",
-  "type": "textbox",
+  "panel-placement": "end",
+  "type": "overlay",
   "limit": 20,
   "language": {
     "search-no-results-text": "No results",
@@ -135,7 +136,7 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
   <header id="quarto-header" class="headroom fixed-top">
   <nav class="quarto-secondary-nav" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
     <div class="container-fluid d-flex justify-content-between">
-      <h1 class="quarto-secondary-nav-title">Setting up a Csycms Server for Hosting Advent Hymnals</h1>
+      <h1 class="quarto-secondary-nav-title">Advent Hymnals</h1>
       <button type="button" class="quarto-btn-toggle btn" aria-label="Show secondary navigation">
         <i class="bi bi-chevron-right"></i>
       </button>
@@ -147,14 +148,14 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
 <!-- sidebar -->
   <nav id="quarto-sidebar" class="sidebar collapse sidebar-navigation docked overflow-auto">
     <div class="pt-lg-2 mt-2 text-center sidebar-header">
-      <a href="../index.html" class="sidebar-logo-link">
-      <img src="https://raw.githubusercontent.com/nmfs-opensci/assets/main/logo/nmfs-opensci-logo3.png" alt="" class="sidebar-logo py-0 d-lg-inline d-none">
-      </a>
-      <div class="sidebar-tools-main tools-wide">
-    <a href="https://nmfs-opensci.github.io" title="NMFS Open Science" class="sidebar-tool px-1"><i class="bi bi-globe"></i></a>
-    <a href="https://github.com/nmfs-opensci" title="NMFS OpenSci" class="sidebar-tool px-1"><i class="bi bi-github"></i></a>
+    <div class="sidebar-title mb-0 py-0">
+      <a href="../">Advent Hymnals</a> 
+        <div class="sidebar-tools-main tools-wide">
+    <a href="https://gospelsounders.org" title="Gospel Sounders" class="sidebar-tool px-1"><i class="bi bi-globe"></i></a>
+    <a href="https://github.com/adventhymnals" title="Advent Hymnals" class="sidebar-tool px-1"><i class="bi bi-github"></i></a>
   <a href="" class="quarto-color-scheme-toggle sidebar-tool" onclick="window.quartoToggleColorScheme(); return false;" title="Toggle dark mode"><i class="bi"></i></a>
 </div>
+    </div>
       </div>
       <div class="mt-2 flex-shrink-0 align-items-center">
         <div class="sidebar-search">
@@ -170,32 +171,7 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../jekyll/blog/abc.html" class="sidebar-item-text sidebar-link">ABC</a>
-  </div>
-</li>
-        <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../jekyll/blog/hosting-advent-hymnals-in-csycms-server.html" class="sidebar-item-text sidebar-link">Blogo</a>
-  </div>
-</li>
-        <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../content/add-content.html" class="sidebar-item-text sidebar-link">Add content</a>
-  </div>
-</li>
-        <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../content/customizing.html" class="sidebar-item-text sidebar-link">Customizing</a>
-  </div>
-</li>
-        <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../content/rendering.html" class="sidebar-item-text sidebar-link">Rendering</a>
-  </div>
-</li>
-        <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../content/acknowledgements.html" class="sidebar-item-text sidebar-link">Acknowledgements</a>
+  <a href="../blog" class="sidebar-item-text sidebar-link">Blog</a>
   </div>
 </li>
     </ul>
@@ -210,39 +186,12 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
   <li><a href="#requirements" id="toc-requirements" class="nav-link active" data-scroll-target="#requirements">Requirements</a></li>
   <li><a href="#installation" id="toc-installation" class="nav-link" data-scroll-target="#installation">Installation</a></li>
   </ul>
-<div class="toc-actions"><div><i class="bi bi-github"></i></div><div class="action-links"><p><a href="https://github.com/nmfs-opensci/NOAA-quarto-simple/edit/main/blog/hosting-advent-hymnals-in-csycms-server.md" class="toc-action">Edit this page</a></p><p><a href="https://github.com/nmfs-opensci/NOAA-quarto-simple/blob/main/blog/hosting-advent-hymnals-in-csycms-server.md" class="toc-action">View source</a></p><p><a href="https://github.com/nmfs-opensci/NOAA-quarto-simple/issues/new" class="toc-action">Report an issue</a></p></div></div></nav>
+<div class="toc-actions"><div><i class="bi bi-github"></i></div><div class="action-links"><p><a href="https://github.com/adventhymnals/v3/edit/main/blog/hosting-advent-hymnals-in-csycms-server.md" class="toc-action">Edit this page</a></p><p><a href="https://github.com/adventhymnals/v3/blob/main/blog/hosting-advent-hymnals-in-csycms-server.md" class="toc-action">View source</a></p><p><a href="https://github.com/adventhymnals/v3/issues/new" class="toc-action">Report an issue</a></p></div></div></nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
-<header id="title-block-header" class="quarto-title-block default">
-<div class="quarto-title">
-<h1 class="title d-none d-lg-block">Setting up a Csycms Server for Hosting Advent Hymnals</h1>
-</div>
 
-
-
-<div class="quarto-title-meta">
-
-    <div>
-    <div class="quarto-title-meta-heading">Author</div>
-    <div class="quarto-title-meta-contents">
-             <p>brian </p>
-          </div>
-  </div>
-    
-    <div>
-    <div class="quarto-title-meta-heading">Published</div>
-    <div class="quarto-title-meta-contents">
-      <p class="date">January 1, 1908</p>
-    </div>
-  </div>
-  
-    
-  </div>
-  
-
-</header>
 
 <p><a href="https://github.com/csymapp/csycms-cli">Csycms</a> is a flat file content management system for nodejs which we developed about 4 to 5 years back. It has served us well hosting both the sites for <a href="https://adventhymnals.org">Advent Hymnals</a> as well as the <a href="https://sabbathschool.github.io/">Sabbath School Lessons Archive</a> before we moved it to github pages. And now we have to retire it. While we could keep improving it to keep up with our current needs, that will be time and resources not wisely spent. We have now fully adopted github pages as our host for advent hymnals, and mainly because it is free. But as we work on the migration, there may be need to migrate our csycms system from one server to another. So here are the instructions incase this need should arise.</p>
 <section id="requirements" class="level2">
@@ -527,8 +476,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </div> <!-- /content -->
 <footer class="footer">
   <div class="nav-footer">
-    <div class="nav-footer-left">© CC-1.0</div>   
-    <div class="nav-footer-right">This page is built with <a href="https://quarto.org/">Quarto</a>.</div>
+      <div class="nav-footer-center">© 2018-2023 Gospel Sounders</div>
   </div>
 </footer>
 
