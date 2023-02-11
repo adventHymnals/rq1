@@ -22,13 +22,13 @@ jobs:
           wget -O csycmstoquarto.sh https://raw.githubusercontent.com/adventHymnals/resources/master/scripts/csycmstoquartov1.sh
           chmod +x csycmstoquarto.sh
           ./csycmstoquarto.sh
-      - name: Set up Quarto
-        uses: quarto-dev/quarto-actions/setup@v2
-        with:
-          # To install LaTeX to build PDF book 
-          tinytex: true 
-          # uncomment below and fill to pin a version
-          # version: 0.9.600
+      # - name: Set up Quarto
+      #   uses: quarto-dev/quarto-actions/setup@v2
+      #   with:
+      #     # To install LaTeX to build PDF book 
+      #     tinytex: true 
+      #     # uncomment below and fill to pin a version
+      #     # version: 0.9.600
       
       # add software dependencies here
 
